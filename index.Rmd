@@ -6,4 +6,3 @@ output:
       in_header: cover.html
 ---
 
-## This is the website of our R community
