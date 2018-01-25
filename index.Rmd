@@ -1,11 +1,9 @@
 ---
 title: "Bienvenid@ a la página del Semillero de R."
+output:
+  html_document:
+    includes:
+      in_header: cover.html
 ---
 
-```{r fig.asp=0.8, fig.align='center', echo=FALSE}
-library(png)
-library(grid)
-img <- readPNG("imagenes/bloque43.png")
-grid.raster(img)
-```
-
+## This is the website of our R community
