@@ -1,0 +1,11 @@
+---
+title: "Bienvenid@ a la página del Semillero de R."
+---
+
+```{r fig.asp=0.8, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/bloque43.png")
+grid.raster(img)
+```
+

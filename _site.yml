@@ -1,0 +1,17 @@
+name: "semillero"
+output_dir: "."
+navbar:
+  title: "Semillero de R"
+  left:
+    - text: "Información"
+      href: index.html
+    - text: "Sobre el Semillero"
+      href: about.html
+    - text: "Videos"
+      href: videos.html
+    - text: "Enlaces"
+      href: enlaces.html
+output:
+  html_document:
+    theme: spacelab
+    css: style.css
