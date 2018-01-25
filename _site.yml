@@ -14,4 +14,4 @@ navbar:
 output:
   html_document:
     theme: spacelab
-    css: style.css
+    highlight: textmate
