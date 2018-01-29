@@ -9,4 +9,3 @@ En el primer semestre de 2018 los temas a abordar en el Semillero son:
 - Creación de aplicaciones con Shiny
 - Creación de funciones
 - Más allá de la linealidad
-
