@@ -2,13 +2,6 @@
 title: "Enlaces"
 ---
 
-```{r fig.asp=0.3, fig.align='left', echo=FALSE}
-library(png)
-library(grid)
-img <- readPNG("imagenes/link.png")
-grid.raster(img)
-```
-
 A continuación una lista de enlaces útiles.
 
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)

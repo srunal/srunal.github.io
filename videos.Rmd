@@ -6,15 +6,15 @@ A continuación se presentan algunos videos útiles sobre R.
 
 ### Instalacion de R y R Studio
 
-<p><iframe width="500" height="300" src="https://www.youtube.com/embed/47AZtI1siTM" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/47AZtI1siTM" frameborder="0" allowfullscreen=""></iframe></p>
 
-<p><iframe width="500" height="300" src="https://www.youtube.com/embed/wr4sJMHWn5s" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/wr4sJMHWn5s" frameborder="0" allowfullscreen=""></iframe></p>
 
 ### Ingresando a R por primera vez
 
-<p><iframe width="500" height="300" src="https://www.youtube.com/embed/cPblSmw9SRQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/cPblSmw9SRQ" frameborder="0" allowfullscreen=""></iframe></p>
 
 ### Ejemplo de gráficos en R con el paquete plotly
 
-<p><iframe width="500" height="300" src="https://www.youtube.com/embed/F7_mMS0A-es" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/F7_mMS0A-es" frameborder="0" allowfullscreen=""></iframe></p>
 

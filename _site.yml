@@ -4,13 +4,22 @@ navbar:
   title: "Semillero de R"
   left:
     - text: "Información"
+      icon: fa-info-circle
       href: inf.html
     - text: "¿Qué es el Semillero?"
+      icon: fa-group
       href: about.html
     - text: "Videos"
+      icon: fa-video-camera
       href: videos.html
     - text: "Enlaces"
+      icon: fa-link
       href: enlaces.html
+  right:
+    - icon: ion-university
+      href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
+    - icon: fa-github
+      href: https://github.com/srunal
 output:
   html_document:
     theme: cosmo
