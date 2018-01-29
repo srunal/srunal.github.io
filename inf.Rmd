@@ -1,0 +1,12 @@
+---
+title: "Información"
+---
+
+En el primer semestre de 2018 los temas a abordar en el Semillero son:
+
+- Introducción a Rmarkdown
+- Creación de páginas web
+- Creación de aplicaciones con Shiny
+- Creación de funciones
+- Más allá de la linealidad
+

@@ -9,7 +9,7 @@ img <- readPNG("imagenes/srunal2.png")
 grid.raster(img)
 ```
 
-## ¿Qué son los semilleros de investigación?
+## ¿Qué es un semillero de investigación?
 
 Son grupos donde se adquieren instrumentos para el desarrollo de investigaciones en un ambiente de tertulia y diálogo, y en donde se aprende a aprender y se descubre nuevo conocimiento y métodos de aprendizaje.
 
@@ -33,9 +33,9 @@ Cualquier estudiante que pase la prueba de admisión.
 
 ## ¿Dónde y cuándo nos reunimos?
 
-Lugar: salón 309 bloque 43.
-Día: todos los lunes.
-Hora: 2 pm.
+- Lugar: salón 309 bloque 43.
+- Día: todos los lunes.
+- Hora: 2 pm.
 
 ## Dirección del Semillero
 
