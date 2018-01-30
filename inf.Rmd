@@ -23,7 +23,7 @@ grid.raster(img)
 
 1. Tener ganas de aprender más sobre R.
 2. Tener pc con las últimas versiones de R y Rstudio.
-3. Tener conocimientos básicos de modelos de regresió.
+3. Tener conocimientos básicos de modelos de regresión.
 4. Presentar la prueba de ingreso.
 
 ## ¿Cómo se presenta la prueba de ingreso?
