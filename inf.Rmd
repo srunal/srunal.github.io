@@ -2,10 +2,39 @@
 title: "Información"
 ---
 
-En el primer semestre de 2018 los temas a abordar en el Semillero son:
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/comic.png")
+grid.raster(img)
+```
 
-- Introducción a Rmarkdown
-- Creación de páginas web
+
+## En este primer semestre de 2018 los temas a abordar en el Semillero son:
+
+- Creacion de documentos con Rmarkdown
+- Creación de páginas web con Rstudio
 - Creación de aplicaciones con Shiny
 - Creación de funciones
 - Más allá de la linealidad
+
+
+## Pasos para hacer parte del Semillero 
+
+1. Tener ganas de aprender más sobre R.
+2. Tener pc con las últimas versiones de R y Rstudio.
+3. Presentar la prueba de ingreso.
+
+## ¿Cómo se presenta la prueba de ingreso?
+
+1. Para presentar la prueba de ingreso de se debe visitar [este enlace](https://docs.google.com/forms/d/e/1FAIpQLScwrUBJwZTHgVIslavrsvBagKYAUkE0oe5KXYB0EJU40r0vhQ/viewform) y responder las preguntas correctamente.
+2. La prueba estará disponible desde el 30 de enero hasta el 4 de febrero a las 11:59 pm.
+3. De todos los estudiantes que presenten la prueba se aceptarán aquellos __20__ con los mayores puntajes.
+
+<br>
+<center>
+<iframe src="http://free.timeanddate.com/countdown/i63arvno/n150/cf100/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcf1d8e7/fs140/szw448/szh189/tat%C2%BFCu%C3%A1nto%20tiempo%20queda%20para%20la%20prueba%3F/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2018-02-04T23:59:00" allowTransparency="true" frameborder="0" width="448" height="189"></iframe>
+
+</center>
+
+
