@@ -10,7 +10,7 @@ grid.raster(img)
 ```
 
 
-## En este primer semestre de 2018 los temas a abordar en el Semillero son:
+### En este primer semestre de 2018 los temas a abordar en el Semillero son:
 
 - Creacion de documentos con Rmarkdown
 - Creación de páginas web con Rstudio
@@ -30,11 +30,5 @@ grid.raster(img)
 1. Para presentar la prueba de ingreso de se debe visitar [este enlace](https://docs.google.com/forms/d/e/1FAIpQLScwrUBJwZTHgVIslavrsvBagKYAUkE0oe5KXYB0EJU40r0vhQ/viewform) y responder las preguntas correctamente.
 2. La prueba estará disponible desde el 30 de enero hasta el 4 de febrero a las 11:59 pm.
 3. De todos los estudiantes que presenten la prueba se aceptarán aquellos __20__ con los mayores puntajes.
-
-<br>
-<center>
-<iframe width="350" height="180" src="https://w2.countingdownto.com/2073392" frameborder="0"></iframe>
-</center>
-
-
+4. Los resultados serán publicados el día 5 de febrero aquí en esta página.
 
