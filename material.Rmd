@@ -1,0 +1,8 @@
+---
+title: "Material"
+---
+
+A continuación usted podrá encontrar el material usado en las reuniones del Semillero.
+
+- Diapositivas sobre [R Markdown](https://github.com/srunal/slides/blob/master/Intro_Rmarkdown/Rmarkdown.pdf)
+- Diapositivas sobre Shiny

@@ -9,6 +9,9 @@ navbar:
     - text: "¿Qué es el Semillero?"
       icon: fa-group
       href: about.html
+    - text: "Material"
+      icon: fa-archive
+      href: material.html
     - text: "Videos"
       icon: fa-video-camera
       href: videos.html
