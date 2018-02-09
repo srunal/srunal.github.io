@@ -18,6 +18,9 @@ navbar:
     - text: "Enlaces"
       icon: fa-link
       href: enlaces.html
+    - text: "Shiny"
+      icon: fa-hand-spock-o
+      href: shiny.html
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
