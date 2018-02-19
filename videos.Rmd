@@ -14,6 +14,10 @@ A continuación se presentan algunos videos útiles sobre R.
 
 <p><iframe width="300" height="200" src="https://www.youtube.com/embed/cPblSmw9SRQ" frameborder="0" allowfullscreen=""></iframe></p>
 
+### Creando páginas web con R Markdown y alojadas en GitHub
+
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/JxsreeFsu8g" frameborder="0" allowfullscreen=""></iframe></p>
+
 ### Ejemplo de gráficos en R con el paquete plotly
 
 <p><iframe width="300" height="200" src="https://www.youtube.com/embed/F7_mMS0A-es" frameborder="0" allowfullscreen=""></iframe></p>
