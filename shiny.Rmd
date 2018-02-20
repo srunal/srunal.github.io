@@ -2,11 +2,11 @@
 title: "Shiny apps"
 ---
 
+Los integrantes del Semillero han creado varias aplicaciones Shiny que están disponibles en este [enlace](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html).
+
 ```{r fig.asp=0.3, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/shiny.png")
 grid.raster(img)
 ```
-
-Los integrantes del Semillero han creado varias aplicaciones Shiny que están disponibles en este [enlace](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html).

@@ -1,13 +1,13 @@
 name: "semillero"
 output_dir: "."
 navbar:
-  title: "Semillero de R"
+  title: "Semillero"
   left:
+    - text: "Noticias"
+      icon: fa-newspaper-o
+      href: inf.html
     - text: "Información"
       icon: fa-info-circle
-      href: inf.html
-    - text: "¿Qué es el Semillero?"
-      icon: fa-group
       href: about.html
     - text: "Material"
       icon: fa-archive
@@ -21,6 +21,9 @@ navbar:
     - text: "Shiny"
       icon: fa-hand-spock-o
       href: shiny.html
+    - text: "DataCamp"
+      icon: fa-line-chart
+      href: DataCamp.html
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
