@@ -12,7 +12,7 @@ A continuación se presenta la lista de estudiantes que han participado de las a
 - [Dora Shirley Sánchez Sedano](https://dssanchezs.github.io)
 - [Wendy Karen Rivera Tamayo](https://wkriverat.github.io)
 - [Lina Maria Castillo Torres](https://lmcastillot.github.io)
-- [Gustavo Adolfo González Hernandez](https://gustavogonzalez1996.github.io/GustavoG)
+- [Gustavo Adolfo González Hernández](https://gustavogonzalez1996.github.io/GustavoG)
 - [Catalina Otálvaro Ramírez](https://caotalvarora.github.io)
 - [Andrés Felipe Montoya Morales](https://toyaestadistico.github.io)
 - [Brahian Cano Urrego](https://bencuben.github.io)
