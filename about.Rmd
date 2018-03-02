@@ -39,6 +39,6 @@ Cualquier estudiante que pase la prueba de admisión.
 
 ## Dirección del Semillero
 
-- Freddy Hernández, profesor, Escuela de Estadística, UNAL.
+- [Freddy Hernández](https://fhernanb.github.io), profesor, Escuela de Estadística, UNAL.
 
 
