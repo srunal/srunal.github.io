@@ -2,7 +2,7 @@
 title: "Miembros"
 ---
 
-A continuación se presenta la lista de estudiantes que han participado de las actividades del Semillero.
+A continuación se presenta la lista de estudiantes que han participado de las actividades del Semillero, al dar clic sobre cada uno de los nombres usted podrá visitar la página web de cada uno de ellos.
 
 ## Semestre 1 de 2018
 
@@ -23,4 +23,5 @@ A continuación se presenta la lista de estudiantes que han participado de las a
 - [Andrés Felipe Cabrera Angulo](https://afcabreraa.github.io)
 - [Yeison Yovany Ocampo Naranjo](https://yyocampon.github.io)
 - [Yubar Daniel Marín Benjumea](https://ydmarinb.github.io)
-- [Johan Felipe Mira](https://jfmirag.github.io)
+- [Johan Felipe Mira Gil](https://jfmirag.github.io)
+- [Paula Andrea Giraldo Pedroza](https://pagiraldop.github.io)
