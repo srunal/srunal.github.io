@@ -1,0 +1,26 @@
+---
+title: "Miembros"
+---
+
+A continuación se presenta la lista de estudiantes que han participado de las actividades del Semillero.
+
+## Semestre 1 de 2018
+
+- [Mateo Restrepo Higuita](https://marestrepohi.github.io)
+- [Yuberth Anderson Saavedra Coneo](https://yuasaavedraco.github.io)
+- [Angie Valeria Lopez Echeverry](https://anvlopezec.github.io)
+- [Dora Shirley Sanchez Sedano](https://dssanchezs.github.io)
+- [Wendy Karen Rivera Tamayo](https://wkriverat.github.io)
+- [Lina Maria Castillo Torres](https://lmcastillot.github.io)
+- [Gustavo Adolfo Gonzalez Hernandez](https://gustavogonzalez1996.github.io/GustavoG)
+- [Catalina Otalvaro Ramirez](https://caotalvarora.github.io)
+- [Andres Felipe Montoya Morales](https://toyaestadistico.github.io)
+- [Brahian Cano Urrego](https://bencuben.github.io)
+- [Julian Andres Mira Gomez](https://jamirag.github.io)
+- [Santiago Toro Zuluaga](https://satorozu.github.io)
+- [Julian Esteban Cadavid Cadavid](https://jcadavidc.github.io)
+- [Luis Felipe Bedoya Martinez](https://felbed.github.io)
+- [Andres Felipe Cabrera Angulo](https://afcabreraa.github.io)
+- [Yeison Yovany Ocampo Naranjo](https://yyocampon.github.io)
+- [Yubar Daniel Marin Benjumea](https://ydmarinb.github.io)
+

@@ -40,5 +40,5 @@ Cualquier estudiante que pase la prueba de admisión.
 ## Dirección del Semillero
 
 - Freddy Hernández, profesor, Escuela de Estadística, UNAL.
-- Mario César Jaramillo, profesor, Escuela de Estadística, UNAL.
-- Carlos Mario Lopera, profesor, Escuela de Estadística, UNAL.
+
+

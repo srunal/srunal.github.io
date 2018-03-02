@@ -9,21 +9,26 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: about.html
-    - text: "Material"
-      icon: fa-archive
-      href: material.html
-    - text: "Videos"
-      icon: fa-video-camera
-      href: videos.html
-    - text: "Enlaces"
-      icon: fa-link
-      href: enlaces.html
-    - text: "Shiny"
-      icon: fa-hand-spock-o
-      href: shiny.html
+    - text: "Miembros"
+      icon: fa-group
+      href: members.html
     - text: "DataCamp"
       icon: fa-line-chart
       href: DataCamp.html
+    - text: "#rstats"
+      menu:
+        - text: "Material"
+          icon: fa-archive
+          href: material.html
+        - text: "Videos"
+          icon: fa-video-camera
+          href: videos.html
+        - text: "Shiny apps"
+          icon: fa-hand-spock-o
+          href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
+        - text: "Enlaces intersantes"
+          icon: fa-link
+          href: enlaces.html          
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
