@@ -23,4 +23,4 @@ A continuación se presenta la lista de estudiantes que han participado de las a
 - [Andres Felipe Cabrera Angulo](https://afcabreraa.github.io)
 - [Yeison Yovany Ocampo Naranjo](https://yyocampon.github.io)
 - [Yubar Daniel Marin Benjumea](https://ydmarinb.github.io)
-
+- [Johan Mira](https://jfmirag.github.io)
