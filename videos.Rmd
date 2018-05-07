@@ -4,15 +4,17 @@ title: "Videos"
 
 A continuación se presentan algunos videos útiles sobre R.
 
-### Instalacion de R y R Studio
+### Instalacion de R
 
-<p><iframe width="300" height="200" src="https://www.youtube.com/embed/47AZtI1siTM" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/rzw1E6HxBFY" frameborder="0" allowfullscreen=""></iframe></p>
 
-<p><iframe width="300" height="200" src="https://www.youtube.com/embed/wr4sJMHWn5s" frameborder="0" allowfullscreen=""></iframe></p>
+### Instalacion de RStudio
+
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/Ifj_WNtFyK8" frameborder="0" allowfullscreen=""></iframe></p>
 
 ### Ingresando a R por primera vez
 
-<p><iframe width="300" height="200" src="https://www.youtube.com/embed/cPblSmw9SRQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p><iframe width="300" height="200" src="https://www.youtube.com/embed/s5P174X-Qe4" frameborder="0" allowfullscreen=""></iframe></p>
 
 ### Creando páginas web con R Markdown y alojadas en GitHub
 
