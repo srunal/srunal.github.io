@@ -4,6 +4,10 @@ title: "Miembros"
 
 A continuación se presenta la lista de estudiantes que han participado de las actividades del Semillero, al dar clic sobre cada uno de los nombres usted podrá visitar la página web de cada uno de ellos.
 
+## Semestre 2 de 2018
+
+Aún no tenemos miembros para este semestre.
+
 ## Semestre 1 de 2018
 
 - [Mateo Restrepo Higuita](https://marestrepohi.github.io)

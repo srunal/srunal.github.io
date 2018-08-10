@@ -9,9 +9,9 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: about.html
-    - text: "Miembros"
-      icon: fa-group
-      href: members.html
+    #- text: "Miembros"
+    #  icon: fa-group
+    #  href: members.html
     - text: "DataCamp"
       icon: fa-line-chart
       href: DataCamp.html
