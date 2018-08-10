@@ -17,6 +17,7 @@ En este segundo semestre del 2018 vamos a explorar algunas de las presentaciones
 - 3 de septiembre [Speeding up computations in R with parallel programming in the cloud](https://www.youtube.com/watch?v=x7Kyp4cb7wk)
 - 10 de septiembre [Combining R and Python with GraalVM](https://www.youtube.com/watch?v=ONNRWOTvtgw)
 - 17 de septiembre [Helping R to be (even more) accurate](https://www.youtube.com/watch?v=3Bu7QUxzIbA)
+- 24 de septiembre Creación de exámenes con el paquete [exams](https://cran.r-project.org/web/packages/exams/index.html), sólo para profesores.
 
 
 Todas las presentaciones de useR! 2018 están disponibles en este [canal de videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos).
