@@ -2,16 +2,16 @@
 title: "Información"
 ---
 
-```{r fig.asp=0.6, fig.align='center', echo=FALSE}
-n <- sample(1:4, size=1)
-sitio <- paste0("imagenes/srunal", n, ".png")
-
+```{r fig.asp=0.6, fig.align='center', echo=FALSE, eval=FALSE}
 library(png)
 library(grid)
-#img <- readPNG("imagenes/srunal3.png")
-img <- readPNG(sitio)
+img <- readPNG("imagenes/srunal3.png")
 grid.raster(img)
 ```
+
+<center>
+![](imagenes/todo.gif)
+</center>
 
 ## ¿Qué es un semillero de investigación?
 
