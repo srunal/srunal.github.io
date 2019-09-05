@@ -3,9 +3,13 @@ title: "Información"
 ---
 
 ```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+n <- sample(1:4, size=1)
+sitio <- paste0("imagenes/srunal", n, ".png")
+
 library(png)
 library(grid)
-img <- readPNG("imagenes/srunal3.png")
+#img <- readPNG("imagenes/srunal3.png")
+img <- readPNG(sitio)
 grid.raster(img)
 ```
 
