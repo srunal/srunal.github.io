@@ -20,3 +20,10 @@ En este segundo semestre del 2019 vamos a explorar algunas de las presentaciones
 - 16 de noviembre: en ese sábado tendremos un <font color="#ED852E">Campamento de Programación</font> durante todo el día, el objetivo será crear las aplicaciones Shiny para participar en el [Second Shiny Contest](https://community.rstudio.com/uploads/default/original/2X/e/edf3fa339fadf7f95922c0b095520853a6de359b.gif) que se iniciará en febrero de 2020.
 
 Todas las presentaciones de useR! 2019 están disponibles en este [canal de videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg).
+
+### ¿Dónde y cuándo nos reuniremos?
+
+- Lugar: salón 309 bloque 43.
+- Día: lunes.
+- Hora: 10 am.
+
