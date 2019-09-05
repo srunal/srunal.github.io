@@ -12,7 +12,7 @@ Para las personas interesadas en aprender R hemos creado varios cursos gratuitos
 3. Dar clic en el botón "Start Course for Free".
 4. Aprender mucho.
 
-```{r fig.asp=0.4, fig.align='center', echo=FALSE}
+```{r fig.asp=0.1, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/DataCamp.png")

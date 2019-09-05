@@ -1,0 +1,22 @@
+---
+title: "Actividades para el segundo semestre de 2019"
+---
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/Invitacion_2019_2.png")
+grid.raster(img)
+```
+
+En este segundo semestre del 2019 vamos a explorar algunas de las presentaciones realizadas en el evento [useR! 2019](http://www.user2019.fr/). Abajo está la programación de Semillero.
+
+- 16 de septiembre [Enhancements to data tidying](https://youtu.be/qFRYnKdLz5U).
+- 23 de septiembre [RD4S Online Learning Community: How can we help?](https://youtu.be/iIjiwzxUI_0).
+- 30 de septiembre [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](https://youtu.be/6bv2IAcNE_c).
+- 7 de octubre [Simple Arrays](https://youtu.be/LQbH5LlD7sg).
+- 21 de octubre [Flexible futures for fable functionality](https://youtu.be/DhDOTxojQ3k).
+- 28 de octubre [A generalized framework for Parametric regression Splines](https://youtu.be/5EJ9h3QP6bU).
+- 15 de noviembre: Campamento de programación.
+
+Todas las presentaciones de useR! 2019 están disponibles en este [canal de videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg).

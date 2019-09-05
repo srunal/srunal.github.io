@@ -3,12 +3,12 @@ output_dir: "."
 navbar:
   title: "Semillero"
   left:
-    - text: "Noticias"
-      icon: fa-newspaper-o
-      href: inf.html
     - text: "Información"
       icon: fa-info-circle
-      href: about.html
+      href: informacion.html
+    - text: "Actividades"
+      icon: fa-newspaper-o
+      href: actividades.html
     #- text: "Miembros"
     #  icon: fa-group
     #  href: members.html

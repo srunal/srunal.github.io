@@ -5,7 +5,7 @@ title: ""
 ```{r fig.asp=0.6, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/srunal2.png")
+img <- readPNG("imagenes/srunal3.png")
 grid.raster(img)
 ```
 
