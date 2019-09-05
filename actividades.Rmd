@@ -1,5 +1,5 @@
 ---
-title: "Actividades para el segundo semestre de 2019"
+title: "Actividades"
 ---
 
 ```{r fig.asp=0.6, fig.align='center', echo=FALSE}

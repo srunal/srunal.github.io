@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "SRUNAL"
 ---
 
 <h1><center>Bienvenid@ a la página del Semillero de R.</center></h1>
