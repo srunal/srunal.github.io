@@ -4,4 +4,9 @@ title: ""
 
 <h1><center>Bienvenid@ a la página del Semillero de R.</center></h1>
 
-<img src="imagenes/unalcover.png" alt="Mountain View">
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/unalcover.png")
+grid.raster(img)
+```
