@@ -32,5 +32,5 @@ Abajo está la programación detallada y los enlaces para que cada uno pueda ver
 - 16 de noviembre: en ese sábado tendremos un <font color="#ED852E">Campamento de Programación</font> durante todo el día, el objetivo será crear las aplicaciones Shiny para participar en el [Second Shiny Contest](https://community.rstudio.com/uploads/default/original/2X/e/edf3fa339fadf7f95922c0b095520853a6de359b.gif) que se realizará en febrero de 2020.
 
 <span style="background-color: #CEF5D0">
-El cupo de asistentes para el Semillero es de **25** personas</span>. Si usted desea participar de las actividades del Semilero deberá constestar [este cuestionario](https://forms.gle/Wm99EBFZjg1U8nTH6) corto. Las personas que mejor puntaje obtengan y que respondan con prontitud serán aceptadas para participar del Semillero. Por correo electrónico recibirán los resultados y la información de horario y lugar para las reuniones.
+El cupo de asistentes para el Semillero es limitado a **25** personas</span>. Si usted desea participar de las actividades del Semilero deberá constestar [este cuestionario](https://forms.gle/Wm99EBFZjg1U8nTH6) corto. Las personas que mejor puntaje obtengan y que respondan con prontitud serán aceptadas para participar del Semillero. Por correo electrónico recibirán los resultados y la información de horario (lunes 10 am) y lugar para las reuniones.
 
