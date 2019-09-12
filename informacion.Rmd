@@ -35,12 +35,6 @@ Cualquier estudiante que pase la prueba de admisión.
 4. Divulgación de resultados.
 5. Interacción académica
 
-## ¿Dónde y cuándo nos reunimos?
-
-- Lugar: salón 309 bloque 43.
-- Día: lunes.
-- Hora: 10 am.
-
 ## Dirección del Semillero
 
 - [Freddy Hernández](https://fhernanb.github.io), profesor, Escuela de Estadística, UNAL.
