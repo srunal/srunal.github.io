@@ -22,15 +22,15 @@ En cada reunión veremos un video de aproximadamente 15 minutos, luego se hará 
 
 Abajo está la programación detallada y los enlaces para que cada uno pueda ver el video antes de la reunión.
 
-- 16 de septiembre: reunión inicial para presentar las actividades.
-- 23 de septiembre: [Enhancements to data tidying](https://youtu.be/qFRYnKdLz5U).
-- 30 de septiembre: [RD4S Online Learning Community: How can we help?](https://youtu.be/iIjiwzxUI_0).
-- 7 de octubre [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](https://youtu.be/6bv2IAcNE_c).
-- 21 de octubre: [Simple Arrays](https://youtu.be/LQbH5LlD7sg).
-- 28 de octubre: [Flexible futures for fable functionality](https://youtu.be/DhDOTxojQ3k).
-- 16 de noviembre [A generalized framework for Parametric regression Splines](https://youtu.be/5EJ9h3QP6bU).
-- 16 de noviembre: en ese sábado tendremos un <font color="#ED852E">Campamento de Programación</font> durante todo el día, el objetivo será crear las aplicaciones Shiny para participar en el [Second Shiny Contest](https://community.rstudio.com/uploads/default/original/2X/e/edf3fa339fadf7f95922c0b095520853a6de359b.gif) que se realizará en febrero de 2020.
+- 23 de septiembre: reunión inicial para presentar las actividades.
+- 30 de septiembre: [Enhancements to data tidying](https://youtu.be/qFRYnKdLz5U).
+- 7 de octubre: [RD4S Online Learning Community: How can we help?](https://youtu.be/iIjiwzxUI_0).
+- 21 de octubre [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](https://youtu.be/6bv2IAcNE_c).
+- 28 de octubre: [Simple Arrays](https://youtu.be/LQbH5LlD7sg).
+- 18 de noviembre: [Flexible futures for fable functionality](https://youtu.be/DhDOTxojQ3k).
+- 25 de noviembre [A generalized framework for Parametric regression Splines](https://youtu.be/5EJ9h3QP6bU).
+- 23 de noviembre: en ese sábado tendremos un <font color="#ED852E">Campamento de Programación</font> durante todo el día, el objetivo será crear las aplicaciones Shiny para participar en el [Second Shiny Contest](https://community.rstudio.com/uploads/default/original/2X/e/edf3fa339fadf7f95922c0b095520853a6de359b.gif) que se realizará en febrero de 2020.
 
-<span style="background-color: #CEF5D0">
-El cupo de asistentes para el Semillero es limitado a **25** personas</span>. Si usted desea participar de las actividades del Semilero deberá constestar [este cuestionario](https://forms.gle/Wm99EBFZjg1U8nTH6) corto. Las personas que mejor puntaje obtengan y que respondan con prontitud serán aceptadas para participar del Semillero. Por correo electrónico recibirán los resultados y la información de horario (lunes 10 am) y lugar para las reuniones.
+<span style="background-color: #F18DF0">
+El cuestionario para concursar como posible integrante del Semillero se ha cerrado. Por correo electrónico los seleccionados recibirán la notificación</span>.
 
