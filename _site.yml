@@ -9,12 +9,12 @@ navbar:
     - text: "Actividades"
       icon: fa-newspaper-o
       href: actividades.html
-    #- text: "Miembros"
-    #  icon: fa-group
-    #  href: members.html
     - text: "DataCamp"
       icon: fa-line-chart
       href: DataCamp.html
+    - text: "Eventos"
+      icon: fa-group
+      href: eventos.html
     - text: "#rstats"
       menu:
         - text: "Material"
