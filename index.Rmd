@@ -4,7 +4,14 @@ title: "SRUNAL"
 
 <h1><center>Bienvenid@ a la página del Semillero de R.</center></h1>
 
-```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+```{r fig.asp=0.3, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/srunal.png")
+grid.raster(img)
+```
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE, eval=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/unalcover.png")
