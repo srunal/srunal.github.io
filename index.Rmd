@@ -11,9 +11,3 @@ img <- readPNG("imagenes/unalcover.png")
 grid.raster(img)
 ```
 
-```{r fig.asp=0.6, fig.align='center', echo=FALSE, eval=FALSE}
-library(png)
-library(grid)
-img <- readPNG("imagenes/unalcover.png")
-grid.raster(img)
-```
