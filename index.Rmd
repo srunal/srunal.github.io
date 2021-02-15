@@ -4,10 +4,10 @@ title: "SRUNAL"
 
 <h1><center>Bienvenid@</center></h1>
 
-```{r fig.asp=0.3, fig.align='center', echo=FALSE}
+```{r fig.asp=0.8, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/srunal.png")
+img <- readPNG("imagenes/unalcover.png")
 grid.raster(img)
 ```
 

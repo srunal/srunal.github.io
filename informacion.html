@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,6 +13,7 @@
 
 <title>Información</title>
 
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -23,6 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
@@ -35,6 +37,15 @@
 
   gtag('config', 'UA-113315486-1');
 </script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -96,7 +107,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,6 +255,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -386,11 +397,11 @@ $(document).ready(function () {
 <center>
 <img src="imagenes/todo.gif" />
 </center>
-<div id="que-es-un-semillero-de-investigacion" class="section level2">
+<div id="qué-es-un-semillero-de-investigación" class="section level2">
 <h2>¿Qué es un semillero de investigación?</h2>
 <p>Son grupos donde se adquieren instrumentos para el desarrollo de investigaciones en un ambiente de tertulia y diálogo, y en donde se aprende a aprender y se descubre nuevo conocimiento y métodos de aprendizaje.</p>
 </div>
-<div id="quienes-pueden-participar" class="section level2">
+<div id="quiénes-pueden-participar" class="section level2">
 <h2>¿Quiénes pueden participar?</h2>
 <p>Cualquier estudiante que pase la prueba de admisión.</p>
 </div>
@@ -401,7 +412,7 @@ $(document).ready(function () {
 <li><p>Proponer y ejecutar proyectos de investigación para las convocatorias del Programa Nacional de Semilleros de Investigación de la Universidad Nacional de Colombia.</p></li>
 </ol>
 </div>
-<div id="que-se-hace-en-el-semillero-de-r" class="section level2">
+<div id="qué-se-hace-en-el-semillero-de-r" class="section level2">
 <h2>¿Qué se hace en el Semillero de R?</h2>
 <ol style="list-style-type: decimal">
 <li>Reuniones regulares.</li>
@@ -411,7 +422,7 @@ $(document).ready(function () {
 <li>Interacción académica</li>
 </ol>
 </div>
-<div id="direccion-del-semillero" class="section level2">
+<div id="dirección-del-semillero" class="section level2">
 <h2>Dirección del Semillero</h2>
 <ul>
 <li><a href="https://fhernanb.github.io">Freddy Hernández</a>, profesor, Escuela de Estadística, UNAL.</li>
@@ -421,10 +432,10 @@ $(document).ready(function () {
 <br>
 <hr>
 <p><center>
-  <img src="imagenes/logo_unal_black.png" alt="logo_srunal" width="180"
-         height="72">
+  <img src="imagenes/Logo_Semillero_R.png" alt="logo_srunal" width="120"
+         height="120">
 </center></p>
-<p><center>Copyright &copy; 2019, webpage made with Rmarkdown.</center></p>
+<p><center>Copyright &copy; 2021, webpage made with Rmarkdown.</center></p>
 <hr>
 
 
@@ -435,7 +446,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
