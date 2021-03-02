@@ -22,10 +22,10 @@ En cada reunión veremos partes de video, luego se hará un conversatorio sobre 
 
 Abajo está la programación detallada y los enlaces para que cada uno pueda ver el video antes de la reunión.
 
-- 9 de marzo: [R para Ciencia de Datos Club de Lectura Capítulo 1](https://youtu.be/q2IquNe1mnw).
-- 23 de marzo: [R para Ciencia de Datos Club de Lectura Capítulo 3](https://youtu.be/sYJlzqdEswM).
-- 6 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 4](https://youtu.be/CMqlPZsNiqo).
-- 20 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 5](https://youtu.be/N4V2NL-TTg8).
-- 4 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 6](https://youtu.be/f1ZGqZvt0ws).
+- 17 de marzo: [R para Ciencia de Datos Club de Lectura Capítulo 1](https://youtu.be/q2IquNe1mnw).
+- 7 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 3](https://youtu.be/sYJlzqdEswM).
+- 21 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 4](https://youtu.be/CMqlPZsNiqo).
+- 5 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 5](https://youtu.be/N4V2NL-TTg8).
+- 19 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 6](https://youtu.be/f1ZGqZvt0ws).
 
 El libro R4DS (R for Data Science) fue escrito por Hadley Wickham y Garret Grolemund, el libro está disponible en [inglés](https://r4ds.had.co.nz/) o [español](https://r4ds-en-espaniol.netlify.app/).
