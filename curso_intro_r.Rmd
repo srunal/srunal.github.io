@@ -2,6 +2,8 @@
 title: "Curso de introducción a R"
 ---
 
-Para las personas interesadas en iniciar en el lenguaje de programación R hemos creado un curso introductorio. Por favor vea el siguiente video para conocer los detalles sobre el curso.
+Para las personas interesadas en iniciar en el lenguaje de programación R hemos creado un curso introductorio. Por favor vea el video para conocer los detalles sobre el curso.
+
+Enlace del curso: [https://tinyurl.com/cursointroduccionr](https://tinyurl.com/cursointroduccionr)
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/rcIhyCIi5sI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
