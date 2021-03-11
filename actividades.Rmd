@@ -24,6 +24,6 @@ Abajo están las fechas, temas y los enlaces para cada video.
 
 ### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse
 <center>
-<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="110" height="110"/></a>
+<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="120" height="120"/></a>
 </center>
 
