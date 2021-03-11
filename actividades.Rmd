@@ -13,7 +13,7 @@ En este primer semestre de 2021 vamos a realizar el club de lectura del libro [R
 
 En cada reunión vamos a tratar un capítulo del libro "R for Data Science" y vamos a mirar partes de los videos realizados por la comunidad **R4DS Online Learning Community**.
 
-Las reuniones se realizarán dos semanas el día __miércoles__ de 6:00 pm a 7:00 pm. Abajo están las fechas de las reuniones, capítulos a leer y los enlaces para cada video.
+Las reuniones se realizarán cada dos semanas los días __miércoles__ de 6:00 pm a 7:00 pm. Abajo están las fechas de las reuniones, capítulos a leer y los enlaces para cada video.
 
 -   17 de marzo: reunión de inicio.
 -   7 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 1](https://youtu.be/q2IquNe1mnw).
@@ -24,6 +24,6 @@ Las reuniones se realizarán dos semanas el día __miércoles__ de 6:00 pm a 7:0
 
 ### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
 <center>
-<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="120" height="120"/></a>
+<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
 </center>
 
