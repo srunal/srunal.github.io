@@ -6,4 +6,6 @@ Para las personas interesadas en iniciar en el lenguaje de programación R hemos
 
 Enlace del curso: [https://tinyurl.com/cursointroduccionr](https://tinyurl.com/cursointroduccionr)
 
-<p><iframe width="448" height="252" src="https://www.youtube.com/embed/rcIhyCIi5sI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<center>
+<p><iframe width="392" height="220" src="https://www.youtube.com/embed/rcIhyCIi5sI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</center>
