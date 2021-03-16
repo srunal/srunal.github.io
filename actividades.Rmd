@@ -15,12 +15,12 @@ En cada reunión vamos a tratar un capítulo del libro "R for Data Science" y va
 
 Las reuniones se realizarán cada dos semanas los días __miércoles__ de 6:00 pm a 7:00 pm. Abajo están las fechas de las reuniones, capítulos a leer y los enlaces para cada video.
 
--   17 de marzo: reunión de inicio.
--   7 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 1](https://youtu.be/q2IquNe1mnw).
+-   17 de marzo: reunión de bienvenida al Club de Lectura.
+-   7 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 1 y 2](https://youtu.be/q2IquNe1mnw).
 -   21 de abril: [R para Ciencia de Datos Club de Lectura Capítulo 3](https://youtu.be/sYJlzqdEswM).
 -   5 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 4](https://youtu.be/CMqlPZsNiqo).
 -   19 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 5](https://youtu.be/N4V2NL-TTg8).
--   9 de junio: [R para Ciencia de Datos Club de Lectura Capítulo 6](https://youtu.be/f1ZGqZvt0ws).
+-   2 de junio: [R para Ciencia de Datos Club de Lectura Capítulo 6](https://youtu.be/f1ZGqZvt0ws).
 
 ### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
 <center>
