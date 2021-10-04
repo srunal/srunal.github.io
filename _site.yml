@@ -6,9 +6,9 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: informacion.html
-    - text: "Actividades"
-      icon: fa-newspaper-o
-      href: actividades.html
+#    - text: "Actividades"
+#      icon: fa-newspaper-o
+#      href: actividades.html
     - text: "Curso de R"
       icon: fa-pencil
       href: curso_intro_r.html
