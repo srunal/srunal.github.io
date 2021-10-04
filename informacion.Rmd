@@ -17,6 +17,14 @@ grid.raster(img)
 
 Son grupos donde se adquieren instrumentos para el desarrollo de investigaciones en un ambiente de tertulia y diálogo, y en donde se aprende a aprender y se descubre nuevo conocimiento y métodos de aprendizaje.
 
+## ¿De dónde vienen los semilleros de investigación?
+
+En el siguiente video se muestra el origen de los semilleros.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S6nL4hCm54c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 ## ¿Quiénes pueden participar?
 
 Cualquier estudiante que pase la prueba de admisión.
