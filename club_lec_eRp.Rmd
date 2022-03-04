@@ -1,5 +1,5 @@
 ---
-title: "Club de lectura - Efficient R programming"
+title: "Club de lectura - Efficient R Programming"
 ---
 
 ```{r fig.asp=1.0, fig.align='center', echo=FALSE}
@@ -9,9 +9,9 @@ img <- readPNG("imagenes/club_de_lectura_eRp.png")
 grid.raster(img)
 ```
 
-En este primer semestre de 2022 vamos a realizar el club de lectura del libro [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace.
+En este primer semestre de 2022 vamos a realizar el club de lectura del libro [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace.
 
-En cada reunión vamos a tratar un capítulo del libro "Efficient R programming".
+En cada reunión vamos a tratar un capítulo del libro "Efficient R Programming".
 
 Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a discutir.
 
