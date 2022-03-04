@@ -13,17 +13,14 @@ En este primer semestre de 2022 vamos a realizar el club de lectura del libro [E
 
 En cada reunión vamos a tratar un capítulo del libro "Efficient R programming".
 
-Las reuniones se realizarán cada dos semanas los días __miércoles__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones, capítulos a leer y los enlaces para cada video.
+Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a discutir.
 
--   17 de marzo: reunión de bienvenida al Club de Lectura.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
--   7 de abril: xxx.
+-   15 de marzo: reunión de bienvenida al Club de Lectura.
+-   29 de marzo: capítulo 1.
+-   19 de abril: capítulo 2
+-   3 de mayo: capítulo 3.
+-   17 de mayo: capítulo 4.
+-   31 de mayo: capítulo 5.
 
 ### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
 
