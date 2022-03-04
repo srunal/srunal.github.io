@@ -22,7 +22,7 @@ Son grupos donde se adquieren instrumentos para el desarrollo de investigaciones
 En el siguiente video se muestra el origen de los semilleros.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S6nL4hCm54c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="392" height="220" src="https://www.youtube.com/embed/S6nL4hCm54c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## ¿Quiénes pueden participar?

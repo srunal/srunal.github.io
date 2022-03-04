@@ -1,0 +1,33 @@
+---
+title: "Club de lectura - Efficient R programming"
+---
+
+```{r fig.asp=1.0, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/club_de_lectura_eRp.png")
+grid.raster(img)
+```
+
+En este primer semestre de 2022 vamos a realizar el club de lectura del libro [Efficient R programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace.
+
+En cada reunión vamos a tratar un capítulo del libro "Efficient R programming".
+
+Las reuniones se realizarán cada dos semanas los días __miércoles__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones, capítulos a leer y los enlaces para cada video.
+
+-   17 de marzo: reunión de bienvenida al Club de Lectura.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+-   7 de abril: xxx.
+
+### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
+
+<center>
+<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
+</center>
+

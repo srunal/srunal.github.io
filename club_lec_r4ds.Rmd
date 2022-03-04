@@ -1,11 +1,11 @@
 ---
-title: "Actividades"
+title: "Club de lectura - R for Data Science"
 ---
 
 ```{r fig.asp=1.0, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/club_de_lectura.png")
+img <- readPNG("imagenes/club_de_lectura_r4ds.png")
 grid.raster(img)
 ```
 
