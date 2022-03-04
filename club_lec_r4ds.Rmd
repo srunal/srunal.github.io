@@ -22,10 +22,12 @@ Las reuniones se realizarán cada dos semanas los días __miércoles__ de 6:00 p
 -   19 de mayo: [R para Ciencia de Datos Club de Lectura Capítulo 5](https://youtu.be/N4V2NL-TTg8).
 -   2 de junio: [R para Ciencia de Datos Club de Lectura Capítulo 6](https://youtu.be/f1ZGqZvt0ws).
 
+<!---
 ### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
 <center>
 <a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
 </center>
+--->
 
 Existe una versión del libro R for Data Science en español que usted puede encontrar [en este enlace](https://es.r4ds.hadley.nz/).
 
