@@ -13,7 +13,7 @@ Un club de lectura lo forman un grupo de personas que leen al mismo tiempo una o
 
 El Semillero de R se han realizado los siguientes clubes de lectura.
 
-- Primer semestre de 2022: [Efficient R programming](https://srunal.github.io/club_lec_eRp.html) de Colin Gillespie y Robin Lovelace.
+- Primer semestre de 2022: [Efficient R Programming](https://srunal.github.io/club_lec_eRp.html) de Colin Gillespie y Robin Lovelace.
 - Primer semestre de 2021: [R for Data Science](https://srunal.github.io/club_lec_r4ds.html) de Hadley Wickham y Garrett Grolemund.
 
 
