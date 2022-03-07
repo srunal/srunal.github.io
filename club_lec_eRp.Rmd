@@ -1,5 +1,5 @@
 ---
-title: "Club de lectura - Efficient R Programming"
+title: "Club de Lectura - Efficient R Programming"
 ---
 
 ```{r fig.asp=1.0, fig.align='center', echo=FALSE}
@@ -9,11 +9,11 @@ img <- readPNG("imagenes/club_de_lectura_eRp.png")
 grid.raster(img)
 ```
 
-En este primer semestre de 2022 vamos a realizar el club de lectura del libro [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
+En este primer semestre de 2022 vamos a realizar el Club de Lectura del libro [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
 
-En esta ocasión el club de lectura se hará en conjunto con [R ladies Medellín](https://twitter.com/rladiesmedellin).
+En esta ocasión el Club de Lectura se hará en conjunto con [R ladies Medellín](https://www.meetup.com/es/rladies-medellin/).
 
-Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a discutir.
+Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a tratar.
 
 -   15 de marzo: reunión de bienvenida al Club de Lectura.
 -   29 de marzo: capítulo 1.
@@ -22,7 +22,7 @@ Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 
 -   17 de mayo: capítulo 4.
 -   31 de mayo: capítulo 5.
 
-### Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
+### El Club de Lectura está abierto a toda la comunidad. Las reuniones se realizarán por google meet, por favor llene el siguiente formulario para inscribirse.
 
 <center>
 <a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
