@@ -11,7 +11,7 @@ grid.raster(img)
 
 En este primer semestre de 2022 vamos a realizar el Club de Lectura del libro [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
 
-En esta ocasión el Club de Lectura se hará en conjunto con [R ladies Medellín](https://www.meetup.com/es/rladies-medellin/).
+En esta ocasión el Club de Lectura se hará en conjunto con [R ladies Medellín](https://www.meetup.com/es/rladies-medellin/) y con [R ladies Barranquilla](https://www.meetup.com/es/rladies-barranquilla/).
 
 Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a tratar.
 
