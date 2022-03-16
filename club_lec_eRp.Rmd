@@ -24,9 +24,12 @@ Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 
 - 7 de junio: capítulo 6.
 - 21 de junio: capítulo 7.
 
-### El Club de Lectura está abierto a toda la comunidad. Las reuniones se realizarán por zoom, por favor llene el siguiente formulario para inscribirse.
+El Club de Lectura está abierto a toda la comunidad. 
+
+<!---
+Las reuniones se realizarán por zoom, por favor llene el siguiente formulario para inscribirse.
 
 <center>
 <a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
 </center>
-
+--->
