@@ -48,3 +48,6 @@ Cualquier estudiante que pase la prueba de admisión.
 - [Freddy Hernández](https://fhernanb.github.io), profesor, Escuela de Estadística, UNAL.
 
 
+## Contacto
+
+Si usted tiene alguna pregunta o solicitud puede escribir al correo srunal@gmail.com.
