@@ -19,7 +19,7 @@ Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 
 - 29 de marzo: capítulo 1, [video](https://youtu.be/zO1OwqvSHkM), [taller](https://rpubs.com/fhernanb/883010).
 - 19 de abril: capítulo 2, [video](https://youtu.be/PvsTVa8XjJg) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%202.R).
 - 3 de mayo: capítulo 3, [video](https://youtu.be/PeYv5hNBU5M) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%203.R).
-- 17 de mayo: capítulo 4.
+- 17 de mayo: capítulo 4, [video](https://youtu.be/8txPjAU4tcs).
 - 31 de mayo: capítulo 5.
 - 7 de junio: capítulo 6.
 - 21 de junio: capítulo 7.
