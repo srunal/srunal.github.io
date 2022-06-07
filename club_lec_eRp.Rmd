@@ -21,7 +21,7 @@ Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 
 - 3 de mayo: capítulo 3, [video](https://youtu.be/PeYv5hNBU5M) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%203.R).
 - 17 de mayo: capítulo 4, [video](https://youtu.be/8txPjAU4tcs).
 - 31 de mayo: capítulo 5.
-- 7 de junio: capítulo 6.
+- 8 de junio: capítulo 6.
 - 21 de junio: capítulo 7.
 
 El Club de Lectura está abierto a toda la comunidad. 
