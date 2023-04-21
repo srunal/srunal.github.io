@@ -11,13 +11,13 @@ grid.raster(img)
 
 En este primer semestre de 2023 vamos a realizar el Club de Lectura del libro [Tidy Modeling with R](https://www.tmwr.org/) de Max Kuhn y Julia Silge. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
 
-Las reuniones se realizarán cada dos semanas los días __lunes__ de 10:00 am a 11:30 am. Abajo están las fechas de las reuniones y los capítulos a tratar.
+Las reuniones se realizarán los días __lunes__ de 10:00 am a 11:00 am. Abajo están las fechas de las reuniones y los capítulos a tratar.
 
-- 15 de marzo: reunión de bienvenida al Club de Lectura, [video](https://youtu.be/vcloeyjtJhg).
-- 29 de marzo: capítulo 1, [video](https://youtu.be/zO1OwqvSHkM), [taller](https://rpubs.com/fhernanb/883010).
-- 19 de abril: capítulo 2, [video](https://youtu.be/PvsTVa8XjJg) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%202.R).
-- 3 de mayo: capítulo 3, [video](https://youtu.be/PeYv5hNBU5M) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%203.R).
-- 17 de mayo: capítulo 4, [video](https://youtu.be/8txPjAU4tcs).
+- 15 de marzo: reunión de bienvenida al Club de Lectura.
+- 29 de marzo: capítulo 1.
+- 19 de abril: capítulo 2.
+- 3 de mayo: capítulo 3.
+- 17 de mayo: capítulo 4.
 - 31 de mayo: capítulo 5.
 - 8 de junio: capítulo 6.
 - 21 de junio: capítulo 7.
