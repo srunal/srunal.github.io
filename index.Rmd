@@ -2,7 +2,7 @@
 title: "SRUNAL"
 ---
 
-<h1><center>Bienvenid@</center></h1>
+<h1><center>Bienvenid@ a la página del Semillero de R</center></h1>
 
 ```{r fig.asp=0.8, fig.align='center', echo=FALSE}
 library(png)

@@ -13,8 +13,8 @@ Un club de lectura lo forman un grupo de personas que leen al mismo tiempo una o
 
 En el Semillero de R se han realizado los siguientes clubes de lectura.
 
-- Primer semestre de 2023: [Tidy Modeling with R](https://srunal.github.io/club_lec_tidy_models.html) de Max Kuhn y Julia Silge.
-- Primer semestre de 2022: [Efficient R Programming](https://srunal.github.io/club_lec_eRp.html) de Colin Gillespie y Robin Lovelace.
-- Primer semestre de 2021: [R for Data Science](https://srunal.github.io/club_lec_r4ds.html) de Hadley Wickham y Garrett Grolemund.
+- Primer semestre de 2023: [Tidy Modeling with R](club_lec_tidy_models.html) de Max Kuhn y Julia Silge.
+- Primer semestre de 2022: [Efficient R Programming](club_lec_eRp.html) de Colin Gillespie y Robin Lovelace.
+- Primer semestre de 2021: [R for Data Science](club_lec_r4ds.html) de Hadley Wickham y Garrett Grolemund.
 
 
