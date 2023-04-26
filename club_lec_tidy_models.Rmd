@@ -9,16 +9,19 @@ img <- readPNG("imagenes/club_de_lectura_tidymodels.png")
 grid.raster(img)
 ```
 
-En este primer semestre de 2023 vamos a realizar el Club de Lectura del libro [Tidy Modeling with R](https://www.tmwr.org/) de Max Kuhn y Julia Silge. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
+En este primer semestre de 2023 vamos a realizar el Club de Lectura del libro [Tidy Modeling with R](https://www.tmwr.org) de Max Kuhn y Julia Silge. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
 
 Las reuniones se realizarán los días __lunes__ de 10:00 am a 11:00 am. Abajo están las fechas de las reuniones y los capítulos a tratar.
 
-- 15 de marzo: reunión de bienvenida al Club de Lectura.
-- 29 de marzo: capítulo 1.
-- 19 de abril: capítulo 2.
-- 3 de mayo: capítulo 3.
-- 17 de mayo: capítulo 4.
-- 31 de mayo: capítulo 5.
-- 8 de junio: capítulo 6.
-- 21 de junio: capítulo 7.
+- 8 de mayo: reunión de bienvenida al Club de Lectura.
+- 15 de mayo: capítulo 1.
+- 29 de mayo: capítulo 2.
+- Las otras fechas están por confirmar.
 
+Para participar del Club de Lectura se debe hacer una inscripción que consta de unas preguntas de conocimientos básicos. Por razones de espacio en el salón donde se va a realizar el Club de Lectura, se utilizarán los resultados de la prueba para seleccionar 20 personas que podrán participar.
+
+Abajo está el botón para hacer la inscripción, el formulario de inscripción estará disponible hasta el domingo 30 de abril a las 10 am.
+
+<center>
+<a href=""><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
+</center>
