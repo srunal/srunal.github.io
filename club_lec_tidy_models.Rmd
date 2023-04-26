@@ -23,5 +23,5 @@ Para participar del Club de Lectura se debe hacer una inscripción que consta de
 Abajo está el botón para hacer la inscripción, el formulario de inscripción estará disponible hasta el domingo 30 de abril a las 10 am.
 
 <center>
-<a href=""><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtyg2AwfG1pFh64HCz7Vvf1YaDmb9KnBWsFdz40eWPTzH1w/viewform?usp=share_link"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
 </center>
