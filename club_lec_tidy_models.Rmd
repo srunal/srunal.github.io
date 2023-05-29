@@ -28,6 +28,7 @@ Abajo está el botón para hacer la inscripción, el formulario de inscripción 
 
 Algunos recursos de apoyo para el Club de Lectura son los siguientes:
 
+- [Tidymodels: tidy machine learning in R](https://www.rebeccabarter.com/blog/2020-03-25_machine_learning).
 - [Tidy Models, una introducción](https://diegokoz.github.io/EEA2019/clase%208/tidymodels.nb.html).
 - [Machine Learning con R y tidymodels](https://rpubs.com/Joaquin_AR/598171).
 
