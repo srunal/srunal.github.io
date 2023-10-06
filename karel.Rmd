@@ -1,5 +1,5 @@
 ---
-title: "Karel para aprender a progrmar"
+title: "Aprendiendo a programar con karel"
 ---
 
 ## Introducción
