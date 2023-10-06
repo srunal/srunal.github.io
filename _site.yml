@@ -7,6 +7,9 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: informacion.html
+    - text: "Karel"
+      icon: fa-android
+      href: karel.html
     - text: "Club de lectura"
       icon: fa-newspaper-o
       href: club_lec.html
