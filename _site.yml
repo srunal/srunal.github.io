@@ -34,7 +34,7 @@ navbar:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
     - icon: fa-lightbulb-o
-      href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
+      href: https://ciencias.medellin.unal.edu.co/escuelas/estadistica/index.php/shiny.html
     - icon: fa-github
       href: https://github.com/srunal
 output:
