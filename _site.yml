@@ -7,6 +7,9 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: informacion.html
+    - text: "Programación"
+      icon: fa-calendar
+      href: programacion.html
     - text: "Karel"
       icon: fa-android
       href: karel.html
@@ -16,9 +19,6 @@ navbar:
     - text: "Curso de R"
       icon: fa-pencil
       href: curso_intro_r.html
-    - text: "Eventos"
-      icon: fa-group
-      href: eventos.html
     - text: "#rstats"
       menu:
         - text: "Material"

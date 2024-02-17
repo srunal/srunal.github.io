@@ -1,0 +1,18 @@
+---
+title: "Programación"
+---
+
+A continuación usted encontrará las actividades que vamos a realizar durante el primer semestre del 2024. Todas las actividades están programadas para los lunes a las 10:00 am en la UNAL.
+
+- Lunes 19 de febrero: "Encuentro con el Egresado" en el bloque 41 Auditorio Gerardo Molina.
+- Lunes 26 de febrero: Introducción a aplicaciones [Shiny](https://shiny.posit.co/).
+- Lunes 4 de marzo: Creación de una aplicación novedosa. 
+- Lunes 11 de marzo: Subiendo una aplicación a [shinyapps.io](https://www.shinyapps.io/) y [huggingface.co](https://huggingface.co/).
+- Lunes 18 de marzo: Creación de funciones en R.
+- Lunes xxx: Usando el robot Karel para programar parte 1.
+- Lunes xxx: Usando el robot Karel para programar parte 2.
+
+![Imagen de <a href="https://www.freepik.es/foto-gratis/escena-negocios-futurista-ambiente-ultra-moderno_94952552.htm#query=girl%20programming%20blue&position=0&from_view=search&track=ais_ai_generated&uuid=c12392d1-a19f-4e07-a84c-bec0c4f2daa6">Freepik</a>][id]
+
+
+[id]: imagenes/girl_prog.jpg "Title"
