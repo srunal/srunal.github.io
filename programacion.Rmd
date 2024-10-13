@@ -2,17 +2,14 @@
 title: "Programación"
 ---
 
-A continuación usted encontrará las actividades que vamos a realizar durante el primer semestre del 2024. Todas las actividades están programadas para los lunes a las 10:00 am en el aula 46-208 la UNAL.
+A continuación usted encontrará las actividades que vamos a realizar durante el mes de octubre del 2024..
 
-- Reunión 0: "Encuentro con el Egresado" en el bloque 41 Auditorio Gerardo Molina.
-- Reunión 1: Introducción a aplicaciones [Shiny](https://shiny.posit.co/).
-- Reunión 2: Creación de una aplicación novedosa. 
-- Reunión 3: Subiendo una aplicación a [shinyapps.io](https://www.shinyapps.io/) y [huggingface.co](https://huggingface.co/).
-- Reunión 4: Creación de funciones en R.
-- Reunión 5: Usando el robot Karel para programar parte 1.
-- Reunión 6: Usando el robot Karel para programar parte 2.
+- Martes 15 octubre: Funciones básicas e instrucciones de control, [aquí el material](https://fhernanb.github.io/Manual-de-R/funbas.html).
+- Miércoles 16 de octubre: Creación de funciones y vectorización de funciones, [aquí el material](https://fhernanb.github.io/Manual-de-R/creafun.html).
+- Jueves 17 de octubre: Creación de paquetes parte 1, [aquí el material](https://freddy.quarto.pub/paquetes-en-r/).
+- Viernes 18 de octubre: Creación de paquetes parte 2, [aquí el material](https://freddy.quarto.pub/paquetes-en-r/).
+
 
 ![Imagen de <a href="https://www.freepik.es/foto-gratis/escena-negocios-futurista-ambiente-ultra-moderno_94952552.htm#query=girl%20programming%20blue&position=0&from_view=search&track=ais_ai_generated&uuid=c12392d1-a19f-4e07-a84c-bec0c4f2daa6">Freepik</a>][id]
-
 
 [id]: imagenes/girl_prog.jpg "Title"
