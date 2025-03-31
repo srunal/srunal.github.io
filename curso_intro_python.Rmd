@@ -2,29 +2,29 @@
 title: "Curso de introducción a Python"
 ---
 
+
 ![Imagen de <a href="https://www.freepik.es/foto-gratis/escena-negocios-futurista-ambiente-ultra-moderno_94952552.htm#query=girl%20programming%20blue&position=0&from_view=search&track=ais_ai_generated&uuid=c12392d1-a19f-4e07-a84c-bec0c4f2daa6">Freepik</a>][id]
 
 [id]: imagenes/girl_prog.jpg "Title"
 
 <br>
 <br>
-<br>
 
-Reunión 0
+## Reunión 0
 
-Las tareas de esta reunión inicial son:
+Las tareas de esta reunión son:
 
 - Curiosear [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV) con videos interesantes de Python. Curiosear, no verlos todos.
 - Crear una cuenta en GitHub, puede ver [este video](https://www.youtube.com/watch?v=ZyD8wyP7J9g) de cómo hacerlo.
 - Curiosear las cuentas de GitHub de los usuarios [colombianos más activos](https://committers.top/colombia.html).
 
-Reunión 1
+## Reunión 1
 
 Las tareas de esta reunión son:
 
 - Actualizar el perfil de su GitHub usando [este servicio](https://github-profile-maker.vercel.app/).
 - Replicar los ejemplos mostrados en este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
-- Realizar los ejericios propuestos de este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
+- Realizar los ejercicios propuestos de este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
 - Estudiar los videos [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV).
 
 
