@@ -22,7 +22,7 @@ Reunión 1
 
 Las tareas de esta reunión son:
 
-- Actualizar el perfil de su GitHub usando [este servicio] (https://github-profile-maker.vercel.app/).
+- Actualizar el perfil de su GitHub usando [este servicio](https://github-profile-maker.vercel.app/).
 - Replicar los ejemplos mostrados en este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
 - Realizar los ejericios propuestos de este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
 - Estudiar los videos [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV).
