@@ -1,0 +1,17 @@
+---
+title: "Curso de introducción a Python"
+---
+
+Reunión 0
+
+Las tareas de esta reunión inicial son:
+
+- Curiosear [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV) con videos interesantes de Python. Curiosear, no verlos todos.
+- Crear una cuenta en GitHub, puede ver [este video](https://www.youtube.com/watch?v=ZyD8wyP7J9g) de cómo hacerlo.
+- Curiosear las cuentas de GitHub de los usuarios [colombianos más activos](https://committers.top/colombia.html).
+
+Reunión 1
+
+Las tareas de esta reunión son:
+
+

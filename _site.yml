@@ -19,6 +19,9 @@ navbar:
     - text: "Curso de R"
       icon: fa-pencil
       href: curso_intro_r.html
+    - text: "Curso de Python"
+      icon: fa-pencil
+      href: curso_intro_python.html
     - text: "#rstats"
       menu:
         - text: "Material"
