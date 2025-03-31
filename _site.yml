@@ -7,9 +7,9 @@ navbar:
     - text: "Información"
       icon: fa-info-circle
       href: informacion.html
-    - text: "Programación"
-      icon: fa-calendar
-      href: programacion.html
+#    - text: "Programación"
+#      icon: fa-calendar
+#      href: programacion.html
     - text: "Karel"
       icon: fa-android
       href: karel.html

@@ -2,6 +2,14 @@
 title: "Curso de introducción a Python"
 ---
 
+![Imagen de <a href="https://www.freepik.es/foto-gratis/escena-negocios-futurista-ambiente-ultra-moderno_94952552.htm#query=girl%20programming%20blue&position=0&from_view=search&track=ais_ai_generated&uuid=c12392d1-a19f-4e07-a84c-bec0c4f2daa6">Freepik</a>][id]
+
+[id]: imagenes/girl_prog.jpg "Title"
+
+<br>
+<br>
+<br>
+
 Reunión 0
 
 Las tareas de esta reunión inicial son:
