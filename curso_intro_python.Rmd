@@ -20,12 +20,29 @@ Las tareas de esta reunión son:
 
 ## Reunión 1
 
+En esta reunión vamos a tratar los temas de tipos de datos y operaciones básicas. El material que vamos a usar es:
+
+- [Programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
+
 Las tareas de esta reunión son:
 
 - Actualizar el perfil de su GitHub usando [este servicio](https://github-profile-maker.vercel.app/).
-- Replicar los ejemplos mostrados en este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
-- Realizar los ejercicios propuestos de este [notebook](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
+- Replicar los ejemplos mostrados en el notebook.
+- Realizar los ejercicios propuestos en el notebook.
 - Estudiar los videos [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV).
+
+## Reunión 2
+
+En esta reunión vamos a tratar los temas de programas básicos y estructuras condicionales. El material que vamos a usar es:
+
+- [Programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/03%20Ejercicios%20b%C3%A1sicos.ipynb).
+- [Condicionales](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/04%20Ejercicios%20sobre%20condicionales.ipynb).
+
+Las tareas de esta reunión son:
+
+- Realizar los ejercicios propuestos del notebook.
+- Estudiar [este video](https://youtu.be/-kFBwApYVtA?si=2zCzgxwYaI9u2L1O).
+
 
 
 
