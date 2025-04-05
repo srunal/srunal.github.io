@@ -42,7 +42,12 @@ En esta reunión vamos a tratar los temas de programas básicos y estructuras co
 Las tareas de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
-
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [ejercicio 1](https://youtu.be/fz_-sc_bwDA?si=LaTGVqSxZajNksSd)
+    - [ejercicio 2](https://youtu.be/u21erAE2oKI?si=q4sERBxcIOBFo_AU)
+    - [ejercicio 3](https://youtu.be/eZGWlBrkhW8?si=knh34bhDa6qZLqxu)
+    - [ejercicio 4](https://youtu.be/2ushSGaPX3I?si=u7ImP9y8g8xEHbJj)
+    - [ejercicio 5](https://youtu.be/kAdgwY_mVxM?si=jbbtCsjl0NCD5gco).
 
 
 
