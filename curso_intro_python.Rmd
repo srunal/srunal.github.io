@@ -35,13 +35,14 @@ Las tareas de esta reunión son:
 
 En esta reunión vamos a tratar los temas de programas básicos y estructuras condicionales. El material que vamos a usar es:
 
-- [Programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/03%20Ejercicios%20b%C3%A1sicos.ipynb).
-- [Condicionales](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/04%20Ejercicios%20sobre%20condicionales.ipynb).
+- [Notebook sobre programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/03%20Ejercicios%20b%C3%A1sicos.ipynb).
+- [Video sobre condicionales](https://youtu.be/-kFBwApYVtA?si=V_KEr6lrYJqCaoK4)
+- [Videos sobre condicionales combinados](https://youtu.be/NmVysQPlS2k?si=sKjd1o8PR4Aqnz-W).
 
 Las tareas de esta reunión son:
 
-- Realizar los ejercicios propuestos del notebook.
-- Estudiar [este video](https://youtu.be/-kFBwApYVtA?si=2zCzgxwYaI9u2L1O).
+- Realizar los ejercicios propuestos en el notebook.
+
 
 
 
