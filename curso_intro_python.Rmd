@@ -37,7 +37,7 @@ En esta reunión vamos a tratar los temas de programas básicos y estructuras co
 
 - [Notebook sobre programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/03%20Ejercicios%20b%C3%A1sicos.ipynb).
 - [Video sobre condicionales](https://youtu.be/-kFBwApYVtA?si=V_KEr6lrYJqCaoK4)
-- [Videos sobre condicionales combinados](https://youtu.be/NmVysQPlS2k?si=sKjd1o8PR4Aqnz-W).
+- [Video sobre condicionales combinados](https://youtu.be/NmVysQPlS2k?si=sKjd1o8PR4Aqnz-W).
 
 Las tareas de esta reunión son:
 
@@ -48,6 +48,31 @@ Las tareas de esta reunión son:
     - [ejercicio 3](https://youtu.be/eZGWlBrkhW8?si=knh34bhDa6qZLqxu)
     - [ejercicio 4](https://youtu.be/2ushSGaPX3I?si=u7ImP9y8g8xEHbJj)
     - [ejercicio 5](https://youtu.be/kAdgwY_mVxM?si=jbbtCsjl0NCD5gco).
+
+## Reunión 3
+
+En esta reunión vamos a tratar el tema de colecciones. El material que vamos a usar es:
+
+- [Video sobre listas](https://youtu.be/xdCJa2QXmJ8?si=X30nEJFCvuNARwxf).
+- [Video sobre listas parte 2](https://youtu.be/aF1tiL5A-iU?si=egKwkEaF1iXDfcDI).
+- [Video sobre tuplas](https://youtu.be/PjCBukZttG4?si=9XGW7VoneNWkRFYt).
+- [Video sobre conjuntos](https://youtu.be/rmRrvol4XcM?si=GXW5CLZaiQAn01rk).
+- [Video sobre conjuntos parte 2](https://youtu.be/UKD3CMINxik?si=uZmRFTz3fXpv_GML).
+- [Video sobre diccionarios](https://youtu.be/vAy4IM7NLIQ?si=pdi45eTzXZjgF_N0).
+- [Video sobre diccionarios parte 2](https://youtu.be/hjNWsqLAPv4?si=wzZyS3cvYtbS1eAF).
+- [Video sobre pilas](https://youtu.be/cXXO0qQGSPA?si=scyKBlAr5Uo3BjBK).
+- [Video sobre colas](https://youtu.be/wuGYzEcgTTw?si=cJwJFoKrq-IW3u-z).
+
+Las tareas de esta reunión son:
+
+- Realizar los ejercicios propuestos en el notebook.
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [ejercicio 1](https://youtu.be/Nl_CxwKaZJk?si=qBP1MNL-UcgXpedO)
+    - [ejercicio 2](https://youtu.be/N2i9uBRyJgk?si=xS-autoDAKCOm1cI)
+    - [ejercicio 3](https://youtu.be/gonL3kow0Oc?si=BEnGYZAbPPw3D8Zo)
+
+    
+    
 
 
 
