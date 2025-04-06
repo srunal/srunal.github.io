@@ -1,0 +1,12 @@
+---
+title: "Enlaces"
+---
+
+A continuación una lista de enlaces útiles.
+
+- [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+- [App para dar formato a código](https://yihui.shinyapps.io/formatR/)
+- [One R Tip a Day](https://twitter.com/RLangTip)
+- [This is statatistic](https://twitter.com/ThisisStats)
+- [Show me Shiny](https://twitter.com/showmeshiny)
+- [R Graph Gallery](https://www.r-graph-gallery.com/)

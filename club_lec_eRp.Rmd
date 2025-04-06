@@ -1,0 +1,34 @@
+---
+title: "Club de Lectura - Efficient R Programming"
+---
+
+```{r fig.asp=1.0, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/club_de_lectura_eRp.png")
+grid.raster(img)
+```
+
+En este primer semestre de 2022 vamos a realizar el Club de Lectura del libro [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/) de Colin Gillespie y Robin Lovelace. En cada reunión vamos a compartir las ideas, impresiones, dudas y curiosidades sobre un capítulo del libro.
+
+En esta ocasión el Club de Lectura se hará en conjunto con [R ladies Medellín](https://www.meetup.com/es/rladies-medellin/), [R ladies Barranquilla](https://www.meetup.com/es/rladies-barranquilla/) y [R ladies Galápagos](https://www.meetup.com/es/rladies-galapagos-islands/).
+
+Las reuniones se realizarán cada dos semanas los días __martes__ de 6:00 pm a 6:50 pm. Abajo están las fechas de las reuniones y los capítulos a tratar.
+
+- 15 de marzo: reunión de bienvenida al Club de Lectura, [video](https://youtu.be/vcloeyjtJhg).
+- 29 de marzo: capítulo 1, [video](https://youtu.be/zO1OwqvSHkM), [taller](https://rpubs.com/fhernanb/883010).
+- 19 de abril: capítulo 2, [video](https://youtu.be/PvsTVa8XjJg) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%202.R).
+- 3 de mayo: capítulo 3, [video](https://youtu.be/PeYv5hNBU5M) y [taller](https://github.com/RLadiesMedellin/ClubLectura_EfficientRProgramming/blob/main/Ejercicios%20sesi%C3%B3n%203.R).
+- 17 de mayo: capítulo 4, [video](https://youtu.be/8txPjAU4tcs).
+- 31 de mayo: capítulo 5.
+- 8 de junio: capítulo 6.
+- 21 de junio: capítulo 7.
+
+El Club de Lectura está abierto a toda la comunidad. 
+
+Las reuniones se realizarán por zoom, por favor llene el siguiente formulario para inscribirse.
+
+<center>
+<a href="https://forms.gle/EieQMQTciyQcsnQh9"><img src="imagenes/inscripcion.png" border="0" width="150" height="150"/></a>
+</center>
+

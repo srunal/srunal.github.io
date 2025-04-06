@@ -1,0 +1,13 @@
+---
+title: "Curso de introducción a R"
+---
+
+Para las personas interesadas en iniciar en el lenguaje de programación R hemos creado un curso introductorio con temas muy interesantes. El curso está alojado en el **Moodle de la UNAL Medellín**. Abajo usted encontrará un video donde se explica la forma de ingresar al curso.
+
+<center>
+<p><iframe width="392" height="220" src="https://www.youtube.com/embed/QflFnrPVEwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</center>
+
+Enlace del curso: [https://unvirtual.medellin.unal.edu.co/](https://unvirtual.medellin.unal.edu.co/)
+
+

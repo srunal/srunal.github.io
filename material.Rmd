@@ -1,0 +1,11 @@
+---
+title: "Material"
+---
+
+A continuación usted podrá encontrar el material usado en las reuniones del Semillero.
+
+- Diapositivas sobre [R Markdown](https://github.com/srunal/slides/blob/master/Intro_Rmarkdown/Rmarkdown.pdf)
+- [Creación de páginas web](https://github.com/srunal/slides/blob/master/Webpages-Rmarkdown/webpages.pdf) con R Markdown.
+- Diapositivas sobre Shiny: [lección 1](https://freddy.quarto.pub/leccion1_shiny), [lección 2](https://freddy.quarto.pub/leccion2shiny) y [lección 3](http://rpubs.com/fhernanb/lesson3_shiny).
+- [Creación de funciones en R](http://rpubs.com/fhernanb/Rfunctions)
+- Más allá de la linealidad: [diapositivas](https://srunal.github.io/documentos/nonlinear.pdf) y [códigos de R](http://www-bcf.usc.edu/~gareth/ISL/Chapter%207%20Lab.txt).
