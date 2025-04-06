@@ -3,7 +3,7 @@ title: "Curso de introducción a Python"
 ---
 
 <center>
-<img src="imagenes/girl_prog.jpg" alt="Freepik image" width="600" height="400">
+<img src="imagenes/girl_prog.jpg" alt="Freepik image" width="300" height="200">
 </center>
 
 <br>
@@ -13,15 +13,22 @@ title: "Curso de introducción a Python"
 
 Las tareas de esta reunión son:
 
-- Curiosear [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV) con videos interesantes de Python. Curiosear, no verlos todos.
+- Ver [este video](https://youtu.be/Z4AOP7-b1RM?si=wzGzrnB65Z4B1u82) con una introducción a Python.
 - Crear una cuenta en GitHub, puede ver [este video](https://www.youtube.com/watch?v=ZyD8wyP7J9g) de cómo hacerlo.
 - Curiosear las cuentas de GitHub de los usuarios [colombianos más activos](https://committers.top/colombia.html).
 
 ## Reunión 1
 
-En esta reunión vamos a tratar los temas de tipos de datos y operaciones básicas. El material que vamos a usar es:
+En esta reunión vamos a tratar los temas de tipos de datos y operadores. El material que vamos a usar es:
 
-- [Programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
+- [Notebook sobre funciones, datos y operaciones básicas](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
+- [Video sobre operadores arítmeticos](https://youtu.be/PMOWXusLr9g?si=47O53QCtmtS5XP-h)
+- [Video sobre operadores relacionales](https://youtu.be/mIAPti7iUKk?si=D0Ce5Ossl9LpUPZQ)
+- [Video sobre operadores lógicos](https://youtu.be/ZjeOT_ACdhw?si=bNKwu-3tYlYpAoEL)
+- [Video sobre operadores de asignación](https://youtu.be/LYNULtY1Zj8?si=9YneDri-2kOJCK1Z)
+- [Video sobre salida de datos](https://youtu.be/V7rsdYD-x4M?si=KreQ7eBzoB_E9pj2)
+- [Video sobre entrada de datos](https://youtu.be/WXHiItkIjHU?si=K9TiIcUQ14FF1jkS)
+- [Video sobre funciones integradas](https://youtu.be/_qLPAwe8xb4?si=IP4EkC42RnOOlVg1)
 
 Las tareas de esta reunión son:
 
@@ -29,6 +36,12 @@ Las tareas de esta reunión son:
 - Replicar los ejemplos mostrados en el notebook.
 - Realizar los ejercicios propuestos en el notebook.
 - Estudiar los videos [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV).
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [ejercicio 1](https://youtu.be/r4ZLB064stU?si=gHjOO7KcVBS0mncb)
+    - [ejercicio 2](https://youtu.be/HXkPrXHm0so?si=I6AroDsp-V1CH6yl)
+    - [ejercicio 3](https://youtu.be/8JYjIp_sxPQ?si=MoIi_Ex5nAhwSzCN)
+    - [ejercicio 4](https://youtu.be/xCqX_BnjSNc?si=NJLX62jvSjiLCNBw)
+    - [ejercicio 5](https://youtu.be/TI_Fd3GyReM?si=dnxffZU5hfWPGN8j).
 
 ## Reunión 2
 
@@ -71,7 +84,11 @@ Las tareas de esta reunión son:
     - [ejercicio 3](https://youtu.be/gonL3kow0Oc?si=BEnGYZAbPPw3D8Zo)
 
     
-    
+## Otros recursos interesantes
+
+A continuación un listado de recursos interesantes sobre Python.
+
+- [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi) sobre Python.
 
 
 
