@@ -91,5 +91,8 @@ A continuación un listado de recursos interesantes sobre Python.
 - [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi) sobre Python.
 
 
+<center>
+<img src="imagenes/Semillero_2025_01.png" alt="Foto semilleristas">
+</center>
 
 
