@@ -37,11 +37,11 @@ Las tareas de esta reunión son:
 - Realizar los ejercicios propuestos en el notebook.
 - Estudiar los videos [esta lista de reproducción](https://www.youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=8is_9R0cZ_-YuHGV).
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
-    - [ejercicio 1](https://youtu.be/r4ZLB064stU?si=gHjOO7KcVBS0mncb)
-    - [ejercicio 2](https://youtu.be/HXkPrXHm0so?si=I6AroDsp-V1CH6yl)
-    - [ejercicio 3](https://youtu.be/8JYjIp_sxPQ?si=MoIi_Ex5nAhwSzCN)
-    - [ejercicio 4](https://youtu.be/xCqX_BnjSNc?si=NJLX62jvSjiLCNBw)
-    - [ejercicio 5](https://youtu.be/TI_Fd3GyReM?si=dnxffZU5hfWPGN8j).
+    - [Ejercicio 1](https://youtu.be/r4ZLB064stU?si=gHjOO7KcVBS0mncb)
+    - [Ejercicio 2](https://youtu.be/HXkPrXHm0so?si=I6AroDsp-V1CH6yl)
+    - [Ejercicio 3](https://youtu.be/8JYjIp_sxPQ?si=MoIi_Ex5nAhwSzCN)
+    - [Ejercicio 4](https://youtu.be/xCqX_BnjSNc?si=NJLX62jvSjiLCNBw)
+    - [Ejercicio 5](https://youtu.be/TI_Fd3GyReM?si=dnxffZU5hfWPGN8j).
 
 ## Reunión 2
 
@@ -55,11 +55,11 @@ Las tareas de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
-    - [ejercicio 1](https://youtu.be/fz_-sc_bwDA?si=LaTGVqSxZajNksSd)
-    - [ejercicio 2](https://youtu.be/u21erAE2oKI?si=q4sERBxcIOBFo_AU)
-    - [ejercicio 3](https://youtu.be/eZGWlBrkhW8?si=knh34bhDa6qZLqxu)
-    - [ejercicio 4](https://youtu.be/2ushSGaPX3I?si=u7ImP9y8g8xEHbJj)
-    - [ejercicio 5](https://youtu.be/kAdgwY_mVxM?si=jbbtCsjl0NCD5gco).
+    - [Ejercicio 1](https://youtu.be/fz_-sc_bwDA?si=LaTGVqSxZajNksSd)
+    - [Ejercicio 2](https://youtu.be/u21erAE2oKI?si=q4sERBxcIOBFo_AU)
+    - [Ejercicio 3](https://youtu.be/eZGWlBrkhW8?si=knh34bhDa6qZLqxu)
+    - [Ejercicio 4](https://youtu.be/2ushSGaPX3I?si=u7ImP9y8g8xEHbJj)
+    - [Ejercicio 5](https://youtu.be/kAdgwY_mVxM?si=jbbtCsjl0NCD5gco).
 
 ## Reunión 3
 
@@ -79,10 +79,29 @@ Las tareas de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
-    - [ejercicio 1](https://youtu.be/Nl_CxwKaZJk?si=qBP1MNL-UcgXpedO)
-    - [ejercicio 2](https://youtu.be/N2i9uBRyJgk?si=xS-autoDAKCOm1cI)
-    - [ejercicio 3](https://youtu.be/gonL3kow0Oc?si=BEnGYZAbPPw3D8Zo)
+    - [Ejercicio 1](https://youtu.be/Nl_CxwKaZJk?si=qBP1MNL-UcgXpedO)
+    - [Ejercicio 2](https://youtu.be/N2i9uBRyJgk?si=xS-autoDAKCOm1cI)
+    - [Ejercicio 3](https://youtu.be/gonL3kow0Oc?si=BEnGYZAbPPw3D8Zo)
+    
+## Reunión 4
 
+En esta reunión vamos a tratar el tema de loops. El material que vamos a usar es:
+
+- [Notebook sobre loops](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/05%20Loops.ipynb).
+- [Video sobre range](https://youtu.be/wOHR4FzzMB4?si=EyimsgLe-JbIUZON).
+- [Video sobre while](https://youtu.be/YEWxlbffgxE?si=p3o1jr4SAHzLxawJ).
+- [Video sobre for](https://youtu.be/mRI8C2ZhDkg?si=IrIxL0d4K8DLmdST).
+
+Las tareas de esta reunión son:
+
+- Realizar los ejercicios propuestos en el notebook.
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [Ejercicio 1](https://youtu.be/L51HqhsvG68?si=s8euKzPd0bgPuLMR&t=116)
+    - [Ejercicio 2](https://youtu.be/DvrPwKMVFWo?si=KK5-roHwe345Ur0Y&t=8)
+    - [Ejercicio 3](https://youtu.be/2xpDkdqsyRc?si=fsYcb5fSci-cbf-V&t=48)
+
+<br>
+<br>
     
 ## Otros recursos interesantes
 
@@ -90,6 +109,8 @@ A continuación un listado de recursos interesantes sobre Python.
 
 - [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi) sobre Python.
 
+<br>
+<br>
 
 <center>
 <img src="imagenes/Semillero_2025_01.png" alt="Foto semilleristas">
