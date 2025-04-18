@@ -11,7 +11,7 @@ title: "Curso de introducción a Python"
 
 ## Reunión 0
 
-Las tareas de esta reunión son:
+Los retos de esta reunión son:
 
 - Ver [este video](https://youtu.be/Z4AOP7-b1RM?si=wzGzrnB65Z4B1u82) con una introducción a Python.
 - Crear una cuenta en GitHub, puede ver [este video](https://www.youtube.com/watch?v=ZyD8wyP7J9g) de cómo hacerlo.
@@ -30,7 +30,7 @@ En esta reunión vamos a tratar los temas de tipos de datos y operadores. El mat
 - [Video sobre entrada de datos](https://youtu.be/WXHiItkIjHU?si=K9TiIcUQ14FF1jkS)
 - [Video sobre funciones integradas](https://youtu.be/_qLPAwe8xb4?si=IP4EkC42RnOOlVg1)
 
-Las tareas de esta reunión son:
+Los retos de esta reunión son:
 
 - Actualizar el perfil de su GitHub usando [este servicio](https://github-profile-maker.vercel.app/).
 - Replicar los ejemplos mostrados en el notebook.
@@ -51,7 +51,7 @@ En esta reunión vamos a tratar los temas de programas básicos y estructuras co
 - [Video sobre condicionales](https://youtu.be/-kFBwApYVtA?si=V_KEr6lrYJqCaoK4)
 - [Video sobre condicionales combinados](https://youtu.be/NmVysQPlS2k?si=sKjd1o8PR4Aqnz-W).
 
-Las tareas de esta reunión son:
+Los retos de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
@@ -75,7 +75,7 @@ En esta reunión vamos a tratar el tema de colecciones. El material que vamos a 
 - [Video sobre pilas](https://youtu.be/cXXO0qQGSPA?si=scyKBlAr5Uo3BjBK).
 - [Video sobre colas](https://youtu.be/wuGYzEcgTTw?si=cJwJFoKrq-IW3u-z).
 
-Las tareas de esta reunión son:
+Los retos de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
@@ -92,13 +92,46 @@ En esta reunión vamos a tratar el tema de loops. El material que vamos a usar e
 - [Video sobre while](https://youtu.be/YEWxlbffgxE?si=p3o1jr4SAHzLxawJ).
 - [Video sobre for](https://youtu.be/mRI8C2ZhDkg?si=IrIxL0d4K8DLmdST).
 
-Las tareas de esta reunión son:
+Los retos de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
     - [Ejercicio 1](https://youtu.be/L51HqhsvG68?si=s8euKzPd0bgPuLMR&t=116)
     - [Ejercicio 2](https://youtu.be/DvrPwKMVFWo?si=KK5-roHwe345Ur0Y&t=8)
     - [Ejercicio 3](https://youtu.be/2xpDkdqsyRc?si=fsYcb5fSci-cbf-V&t=48)
+    
+## Reunión 5
+
+En esta reunión vamos a tratar el tema de excepciones. El material que vamos a usar es:
+
+- [Video sobre excepciones](https://youtu.be/_lao-swaPdc?si=wgSB1p_j3AoOIfWP).
+- [Video sobre try, except, else y finally](https://youtu.be/qZFK90XvyTg?si=ug9dDY7Xb3_hUAaP).
+- [Video sobre mientras haya excepciones](https://youtu.be/sf1ysCJq_SQ?si=7R_lZilkgb4YL8vE).
+- [Video sobre más de una excepción](https://youtu.be/hQ8Nh0bwG7w?si=ngC88_LHLd8cPqWD).
+- [Video sobre manejo de errores - la cartilla](https://youtu.be/hQ8Nh0bwG7w?si=ngC88_LHLd8cPqWD).
+
+
+Los retos de esta reunión son:
+
+- Realizar los ejercicios propuestos en el notebook.
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [Ejercicio 1](https://youtu.be/cdqTTDl_kS8?si=T7ukJy1j21BuLuww&t=89)
+    - [Ejercicio 2](https://youtu.be/cdqTTDl_kS8?si=kx_LDKIYgFfzN85g&t=288)
+
+## Reunión 6
+
+En esta reunión vamos a tratar el tema de creación de funciones. El material que vamos a usar es:
+
+- [Notebook sobre funciones](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/06%20Ejercicios%20sobre%20funciones.ipynb).
+- [Video sobre funciones integradas](https://youtu.be/hHhkLEnowLA?si=TPafefBnfCIHGlXf).
+- [Video sobre creación de funciones](https://youtu.be/9k91jETchkI?si=ed2_yfUizLUo6SZG&t=5).
+- [Video sobre ...]().
+
+Los retos de esta reunión son:
+
+- Realizar los ejercicios propuestos en el notebook.
+- Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
+    - [Ejercicio 1](https://youtube.com/shorts/5-vGyUOfC5E?si=76WIQVy7I8dMqCzs)
 
 <br>
 <br>
@@ -107,7 +140,8 @@ Las tareas de esta reunión son:
 
 A continuación un listado de recursos interesantes sobre Python.
 
-- [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi) sobre Python.
+- [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi).
+- [Videos de Código Facilito](https://youtube.com/playlist?list=PLE549A038CF82905F&si=08r_4O9TOVnqZbs6).
 
 <br>
 <br>
