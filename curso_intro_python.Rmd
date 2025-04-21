@@ -125,13 +125,22 @@ En esta reunión vamos a tratar el tema de creación de funciones. El material q
 - [Notebook sobre funciones](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/06%20Ejercicios%20sobre%20funciones.ipynb).
 - [Video sobre funciones integradas](https://youtu.be/hHhkLEnowLA?si=TPafefBnfCIHGlXf).
 - [Video sobre creación de funciones](https://youtu.be/9k91jETchkI?si=ed2_yfUizLUo6SZG&t=5).
-- [Video sobre ...]().
+- [Video sobre funciones lambda](https://youtu.be/KR22jigJLok?si=LxpB6ZQIrImru-Qk).
 
 Los retos de esta reunión son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
     - [Ejercicio 1](https://youtube.com/shorts/5-vGyUOfC5E?si=76WIQVy7I8dMqCzs)
+    
+## Reunión 7
+
+En esta reunión vamos a tratar el tema de librerías. El material que vamos a usar es:
+
+- [Video sobre cómo instalar librerías](https://youtu.be/lkQ2cfAX2Ao?si=MtXmtW1t7QHsPucR).
+- [Video 11 Librerías de Python para 2024 que debes conocer](https://youtu.be/TZQpj5hu8Yc?si=m0NEmKgu76MHfbjW).
+- [Short librerías para machine learning](https://youtube.com/shorts/BFNkLG8io2c?si=Xhckz7x4GswKMZvB).
+
 
 <br>
 <br>
