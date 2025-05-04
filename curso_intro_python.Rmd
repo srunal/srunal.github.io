@@ -135,6 +135,10 @@ Los retos de esta tema son:
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
     - [Ejercicio 1](https://youtube.com/shorts/5-vGyUOfC5E?si=76WIQVy7I8dMqCzs)
+    - [Ejercicio 2](https://youtube.com/shorts/hm4o20k0Mi4?si=kZh108GX9v-Lg55W)
+    - [Ejercicio 3](https://youtube.com/shorts/bkxYx2hdCTk?si=20G5oGQN9ua0FRwK)
+    - [Ejercicio 4](https://youtube.com/shorts/kCoetL_kEeo?si=LGxDF-IZQlHkkF21)
+    - [Ejercicio 5](https://youtube.com/shorts/fKt4B5dl6bI?si=Tp_GlCsjshfVEL_8)
     
 ## Tema 7
 
