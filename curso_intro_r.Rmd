@@ -10,4 +10,9 @@ Para las personas interesadas en iniciar en el lenguaje de programación R hemos
 
 Enlace del curso: [https://unvirtual.medellin.unal.edu.co/](https://unvirtual.medellin.unal.edu.co/)
 
+<br>
+<br>
 
+<center>
+<img src="imagenes/logo_R.gif" alt="Logo animado" width="90" height="90">
+</center>
