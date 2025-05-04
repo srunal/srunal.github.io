@@ -11,3 +11,5 @@ img <- readPNG("imagenes/unalcover.png")
 grid.raster(img)
 ```
 
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=m&d=g72KaHLueV1URLz0f0rc225rzfP-DzlHP2ZGgvxkJbQ'></script>
+
