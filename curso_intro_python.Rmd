@@ -9,17 +9,17 @@ title: "Curso de introducción a Python"
 <br>
 <br>
 
-## Reunión 0
+## Tema 0
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Ver [este video](https://youtu.be/Z4AOP7-b1RM?si=wzGzrnB65Z4B1u82) con una introducción a Python.
 - Crear una cuenta en GitHub, puede ver [este video](https://www.youtube.com/watch?v=ZyD8wyP7J9g) de cómo hacerlo.
 - Curiosear las cuentas de GitHub de los usuarios [colombianos más activos](https://committers.top/colombia.html).
 
-## Reunión 1
+## Tema 1
 
-En esta reunión vamos a tratar los temas de tipos de datos y operadores. El material que vamos a usar es:
+En esta tema vamos a tratar los temas de tipos de datos y operadores. El material que vamos a usar es:
 
 - [Notebook sobre funciones, datos y operaciones básicas](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/01%20Datos%20y%20operaciones%20b%C3%A1sicas.ipynb).
 - [Video sobre operadores arítmeticos](https://youtu.be/PMOWXusLr9g?si=47O53QCtmtS5XP-h)
@@ -30,7 +30,7 @@ En esta reunión vamos a tratar los temas de tipos de datos y operadores. El mat
 - [Video sobre entrada de datos](https://youtu.be/WXHiItkIjHU?si=K9TiIcUQ14FF1jkS)
 - [Video sobre funciones integradas](https://youtu.be/_qLPAwe8xb4?si=IP4EkC42RnOOlVg1)
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Actualizar el perfil de su GitHub usando [este servicio](https://github-profile-maker.vercel.app/).
 - Replicar los ejemplos mostrados en el notebook.
@@ -43,15 +43,15 @@ Los retos de esta reunión son:
     - [Ejercicio 4](https://youtu.be/xCqX_BnjSNc?si=NJLX62jvSjiLCNBw)
     - [Ejercicio 5](https://youtu.be/TI_Fd3GyReM?si=dnxffZU5hfWPGN8j).
 
-## Reunión 2
+## Tema 2
 
-En esta reunión vamos a tratar los temas de programas básicos y estructuras condicionales. El material que vamos a usar es:
+En esta tema vamos a tratar los temas de programas básicos y estructuras condicionales. El material que vamos a usar es:
 
 - [Notebook sobre programas básicos](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/03%20Ejercicios%20b%C3%A1sicos.ipynb).
 - [Video sobre condicionales](https://youtu.be/-kFBwApYVtA?si=V_KEr6lrYJqCaoK4)
 - [Video sobre condicionales combinados](https://youtu.be/NmVysQPlS2k?si=sKjd1o8PR4Aqnz-W).
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
@@ -61,9 +61,9 @@ Los retos de esta reunión son:
     - [Ejercicio 4](https://youtu.be/2ushSGaPX3I?si=u7ImP9y8g8xEHbJj)
     - [Ejercicio 5](https://youtu.be/kAdgwY_mVxM?si=jbbtCsjl0NCD5gco).
 
-## Reunión 3
+## Tema 3
 
-En esta reunión vamos a tratar el tema de colecciones. El material que vamos a usar es:
+En esta tema vamos a tratar el tema de colecciones. El material que vamos a usar es:
 
 - [Video sobre listas](https://youtu.be/xdCJa2QXmJ8?si=X30nEJFCvuNARwxf).
 - [Video sobre listas parte 2](https://youtu.be/aF1tiL5A-iU?si=egKwkEaF1iXDfcDI).
@@ -75,7 +75,7 @@ En esta reunión vamos a tratar el tema de colecciones. El material que vamos a 
 - [Video sobre pilas](https://youtu.be/cXXO0qQGSPA?si=scyKBlAr5Uo3BjBK).
 - [Video sobre colas](https://youtu.be/wuGYzEcgTTw?si=cJwJFoKrq-IW3u-z).
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
@@ -83,16 +83,16 @@ Los retos de esta reunión son:
     - [Ejercicio 2](https://youtu.be/N2i9uBRyJgk?si=xS-autoDAKCOm1cI)
     - [Ejercicio 3](https://youtu.be/gonL3kow0Oc?si=BEnGYZAbPPw3D8Zo)
     
-## Reunión 4
+## Tema 4
 
-En esta reunión vamos a tratar el tema de loops. El material que vamos a usar es:
+En esta tema vamos a tratar el tema de loops. El material que vamos a usar es:
 
 - [Notebook sobre loops](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/05%20Loops.ipynb).
 - [Video sobre range](https://youtu.be/wOHR4FzzMB4?si=EyimsgLe-JbIUZON).
 - [Video sobre while](https://youtu.be/YEWxlbffgxE?si=p3o1jr4SAHzLxawJ).
 - [Video sobre for](https://youtu.be/mRI8C2ZhDkg?si=IrIxL0d4K8DLmdST).
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
@@ -100,9 +100,9 @@ Los retos de esta reunión son:
     - [Ejercicio 2](https://youtu.be/DvrPwKMVFWo?si=KK5-roHwe345Ur0Y&t=8)
     - [Ejercicio 3](https://youtu.be/2xpDkdqsyRc?si=fsYcb5fSci-cbf-V&t=48)
     
-## Reunión 5
+## Tema 5
 
-En esta reunión vamos a tratar el tema de excepciones. El material que vamos a usar es:
+En esta tema vamos a tratar el tema de excepciones. El material que vamos a usar es:
 
 - [Video sobre excepciones](https://youtu.be/_lao-swaPdc?si=wgSB1p_j3AoOIfWP).
 - [Video sobre try, except, else y finally](https://youtu.be/qZFK90XvyTg?si=ug9dDY7Xb3_hUAaP).
@@ -111,31 +111,34 @@ En esta reunión vamos a tratar el tema de excepciones. El material que vamos a 
 - [Video sobre manejo de errores - la cartilla](https://youtu.be/hQ8Nh0bwG7w?si=ngC88_LHLd8cPqWD).
 
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
     - [Ejercicio 1](https://youtu.be/cdqTTDl_kS8?si=T7ukJy1j21BuLuww&t=89)
     - [Ejercicio 2](https://youtu.be/cdqTTDl_kS8?si=kx_LDKIYgFfzN85g&t=288)
 
-## Reunión 6
+## Tema 6
 
-En esta reunión vamos a tratar el tema de creación de funciones. El material que vamos a usar es:
+En esta tema vamos a tratar el tema de creación de funciones. El material que vamos a usar es:
 
 - [Notebook sobre funciones](https://github.com/fhernanb/Python-para-estadistica/blob/master/01%20Lecciones%20b%C3%A1sicas/06%20Ejercicios%20sobre%20funciones.ipynb).
-- [Video sobre funciones integradas](https://youtu.be/hHhkLEnowLA?si=TPafefBnfCIHGlXf).
-- [Video sobre creación de funciones](https://youtu.be/9k91jETchkI?si=ed2_yfUizLUo6SZG&t=5).
-- [Video sobre funciones lambda](https://youtu.be/KR22jigJLok?si=LxpB6ZQIrImru-Qk).
+- [Video sobre funciones integradas](https://youtu.be/hHhkLEnowLA?si=9-VTfsTrziKTyop-&t=20).
+- [Video sobre qué es una función](https://youtu.be/g1BiLG9DyvM?si=e1_KCpfhVZOD_oJw).
+- [Video sobre creación de funciones](https://youtu.be/2Z5_qNlmAJk?si=uO8NmO5hIZPKSzll).
+- [Video sobre parámetros y argumentos](https://youtu.be/7xTHov614ZA?si=u2lAARa-UuKD-l0L).
+- [Video sobre funciones con valores de retorno](https://youtu.be/nEKqmheMAZ8?si=4rXXUiLjtrVJQK-h).
+- [Video sobre funciones lambda](https://youtu.be/AdhONq0SyGw?si=uHUCZHbDcXiDet3H).
 
-Los retos de esta reunión son:
+Los retos de esta tema son:
 
 - Realizar los ejercicios propuestos en el notebook.
 - Ver la primera parte de los siguientes videos y crear el programa para solucionar el ejercicio. Luego de que usted tenga su programa, continue viendo el video para que compare su programa con el programa del video: 
     - [Ejercicio 1](https://youtube.com/shorts/5-vGyUOfC5E?si=76WIQVy7I8dMqCzs)
     
-## Reunión 7
+## Tema 7
 
-En esta reunión vamos a tratar el tema de librerías. El material que vamos a usar es:
+En esta tema vamos a tratar el tema de librerías. El material que vamos a usar es:
 
 - [Video sobre cómo instalar librerías](https://youtu.be/lkQ2cfAX2Ao?si=MtXmtW1t7QHsPucR).
 - [Video 11 Librerías de Python para 2024 que debes conocer](https://youtu.be/TZQpj5hu8Yc?si=m0NEmKgu76MHfbjW).
@@ -151,12 +154,20 @@ A continuación un listado de recursos interesantes sobre Python.
 
 - [Videos de Jorge Escobar](https://youtube.com/playlist?list=PLZOGNlgi8GGmlwUznNnnQJpyEJcABeTs4&si=XOSMckkR2e0s8jTi).
 - [Videos de Código Facilito](https://youtube.com/playlist?list=PLE549A038CF82905F&si=08r_4O9TOVnqZbs6).
+- [Videos de Arnau](https://www.youtube.com/playlist?list=PL7VQ-RADvZ4OhJPt8wV7Z-gi6RLx-G1c3).
 
 <br>
 <br>
 
 <center>
 <img src="imagenes/Semillero_2025_01.png" alt="Foto semilleristas">
+</center>
+
+<br>
+<br>
+
+<center>
+<img src="imagenes/logo_python.gif" alt="Logo animado" width="70" height="70">
 </center>
 
 
