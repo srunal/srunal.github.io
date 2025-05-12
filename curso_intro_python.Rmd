@@ -148,6 +148,15 @@ En esta tema vamos a tratar el tema de librerías. El material que vamos a usar 
 - [Video 11 Librerías de Python para 2024 que debes conocer](https://youtu.be/TZQpj5hu8Yc?si=m0NEmKgu76MHfbjW).
 - [Short librerías para machine learning](https://youtube.com/shorts/BFNkLG8io2c?si=Xhckz7x4GswKMZvB).
 
+## Tema 8
+
+En esta tema vamos a tratar el tema de gráficos. El material que vamos a usar es:
+
+- [Lista creación de gráficos](https://youtube.com/playlist?list=PLG8UtYUFOQj4PwdP1SusjENu-fPOh7bnZ&si=ZnsZu7BvGrNnrEUi).
+- [Video sobre cómo matplotlib](https://youtu.be/XEG4eh5l_qU?si=ONnd41oRJme2iwzP).
+- [9 tipos de gráficos que debes conocer](https://youtu.be/AqHRieHKEzw?si=BsPHjfSR5GqCK3Ye).
+- [Video sobre gráficos interactivos](https://youtu.be/Zt3tzGjLmPA?si=0t-i2IIKOsPKBNk3).
+
 
 <br>
 <br>
