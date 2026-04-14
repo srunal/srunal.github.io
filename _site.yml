@@ -10,6 +10,9 @@ navbar:
 #    - text: "Programación"
 #      icon: fa-calendar
 #      href: programacion.html
+    - text: "gamlss"
+      icon: fa-cubes
+      href: https://freddy.quarto.pub/dists-gamlss
     - text: "Karel"
       icon: fa-android
       href: karel.html

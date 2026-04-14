@@ -11,16 +11,15 @@ img <- readPNG("imagenes/unalcover.png")
 grid.raster(img)
 ```
 
-```{r fig.asp=0.8, fig.align='center', echo=FALSE}
+```{r fig.asp=1.0, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/estudiante_invita_formulario.png")
 grid.raster(img)
 ```
 
-[Formulario para selección de Semilleristas](https://forms.gle/ZfMLAnvTaDW4gPhD7). Los interesados con los mejores puntajes será seleccionados para el Semillero.
+[Formulario para selección de Semilleristas](https://forms.gle/ZfMLAnvTaDW4gPhD7). Los inscritos con los mejores puntajes serán seleccionados para el Semillero.
 
-<br>
 <br>
 <br>
 
