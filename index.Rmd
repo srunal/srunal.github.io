@@ -20,6 +20,8 @@ grid.raster(img)
 
 [Formulario para selección de Semilleristas](https://forms.gle/ZfMLAnvTaDW4gPhD7). Los inscritos con los mejores puntajes serán seleccionados para el Semillero.
 
+Nota: el formulario estará abierto hasta el día 20 de abril a las 11:59 pm.
+
 <br>
 <br>
 
