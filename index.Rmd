@@ -4,23 +4,19 @@ title: "SRUNAL"
 
 <h1><center>Bienvenid@ a la página del Semillero de R</center></h1>
 
-```{r fig.asp=0.8, fig.align='center', echo=FALSE, eval=FALSE}
+```{r fig.asp=0.8, fig.align='center', echo=FALSE, eval=TRUE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/unalcover.png")
 grid.raster(img)
 ```
 
-```{r fig.asp=1.0, fig.align='center', echo=FALSE}
+```{r fig.asp=1.0, fig.align='center', echo=FALSE, eval=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/estudiante_invita_formulario.png")
 grid.raster(img)
 ```
-
-[Formulario para selección de Semilleristas](https://forms.gle/ZfMLAnvTaDW4gPhD7). Los inscritos con los mejores puntajes serán seleccionados para el Semillero.
-
-Nota: el formulario estará abierto hasta el día 20 de abril a las 11:59 pm.
 
 <br>
 <br>
